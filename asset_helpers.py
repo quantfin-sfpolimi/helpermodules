@@ -1,129 +1,126 @@
 # Libraries used
+import yfinance as yf
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from twelvedata import TDClient 
+from twelvedata import TDClient
 from dotenv import load_dotenv 
 import os
 
-#TODO: added docstrings + error handling + fixed some spaghetti code + generalized a function
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
+td = TDClient(apikey=API_KEY)
+
 class Asset:
-    """
-    Represents an asset, such as an ETF (Exchange-Traded Fund), with associated data and functionality.
+    '''
+    The Asset class helps managing single assets.
 
-    Attributes:
-    - type (str): The type of the asset (e.g., 'ETF', 'Stock', 'Bond').
-    - ticker (str): The ticker symbol or identifier of the asset.
-    - full_name (str): The full name or description of the asset.
-    - df (pandas.DataFrame): The DataFrame containing historical data of the asset.
-    - index_name (str): The name of the index that the asset tracks (if applicable).
-    - ter (float): The Total Expense Ratio (TER) of the asset.
+    To initialize it you have to input the following attributes:
+    - type: (String) the asset type (stock, ETF, index, commodity, crypto, currency...)
+    - ticker: (String) the ticker of the asset 
+    - full_name: (String) full name of the asset
 
-    Methods:
-    - apply_ter(ter): Apply a specified TER to adjust the asset's historical data.
-    - update_from_html(extraction_type): Update asset attributes (e.g., ISIN, TER) by extracting
-      information from HTML data based on the specified extraction type ('isin' or 'ter').
-    - update_index_name(): Update the index name of the asset by extracting information from a webpage
-      based on its ISIN (International Securities Identification Number).
-    """
-    
+    NOTE: Use Asset.load() function to initialize the following attributes
+    The following attributes are computed automatically using the assets list:
+    - df: pandas dataframe of the asset (monthly)
+    - isin: (String) ETF isin (if ETF, else None)
+    - index_name: (String) ETF underlying index (if ETF, else None)
+    - ter: (float) ETF ter (if ETF, else None)
+    '''
     def __init__(self, type, ticker, full_name):
         self.type = type
         self.ticker = ticker
-        self.df = None
         self.full_name = full_name
+        self.df = None
+        self.isin = None
         self.index_name = None
         self.ter = None
-        self.isin = None
 
-    def _extract_value_from_html(self, data, start_pattern, end_pattern):
-        """
-        Extracts a value from HTML data based on start and end patterns.
-
-        Parameters:
-        - data (str): HTML data to search within.
-        - start_pattern (str): Pattern indicating the start of the value.
-        - end_pattern (str): Pattern indicating the end of the value.
-
-        Returns:
-        - str: Extracted value between start and end patterns, or None if not found.
-        """
-        with open('./very_long_html.txt', 'r') as file:
-            data = file.read()
-        start_index = data.upper().find(self.full_name.upper(), 0)
-        if start_index == -1:
-            return None
-
-        value = ""
-        index = start_index + len(start_pattern)
-        while index < len(data):
-            if data[index] == end_pattern:
-                break
-            value += data[index]
-            index += 1
-
-        return value
-    
     def apply_ter(self, ter):
-        """
-        Applies a specified Total Expense Ratio (TER) adjustment to the historical data of the asset.
+        montly_ter_pct = (ter/12)/100
 
-        Parameters:
-        - ter (float): The Total Expense Ratio (TER) to apply.
-        
-        """
-        if self.ticker not in self.df.columns:
-            raise ValueError(f"Ticker '{self.ticker}' not found in DataFrame columns.")
-
-        monthly_ter_pct = (ter / 12) / 100
         columns = self.df[self.ticker]
-        new_df = columns.apply(lambda x: x - monthly_ter_pct)
+        
+        new_df = columns.apply(lambda x: x - montly_ter_pct)
+
         self.df[self.ticker] = new_df
 
-    def update_from_html(self, extraction_type):
-        """
-        Updates ETF attributes (e.g., ISIN, TER) by extracting information from HTML data.
-
-        Parameters:
-        - extraction_type (str): Type of extraction ('isin' or 'ter').
-
-        Returns:
-        - str: Extracted value, or None if extraction is unsuccessful.
-        """
-        if extraction_type not in ['isin', 'ter']:
-            raise ValueError("extraction_type must be either 'isin' or 'ter'.")
-
+    def load_etf_isin(self):
         with open('./very_long_html.txt', 'r') as file:
-            data = file.read().replace('\n', '')
+            data = file.read()
 
-        if extraction_type == 'isin':
-            value = self._extract_value_from_html(data, self.full_name, '"')
-            self.isin = value
-        elif extraction_type == 'ter':
-            if self.isin is None:
-                raise ValueError("ISIN is required to extract TER.")
-            value = self._extract_value_from_html(data, self.isin, '"%')
-            self.ter = value
+        # NOTA: spesso non trova l'etf a causa di parentesi o altre piccole differenze con justEtf, creare una funzione di ricerca
+        #       con gerarchica basata su parole chiave (World, S&P 500, ...) piuttosto che cercare con .find()
+        index = data.find(self.full_name.upper(),0)
 
+        # se non trova nulla ritorna None
+        if index == -1:
+            return None
 
-    def update_index_name(self):
-        if self.isin is None:
-            raise ValueError("ISIN is required to update index name.")
+        i=0
+        isin=""
+        # getting the etf isin by reading from the fourth " symbol up to the fifth " symbol it encounters on the very_long_html file
+        while (i<5):
+            index+=1
+            letter=data[index]
+            if letter == '"':
+                i+=1
+            if (i>=4) & (letter!='"'):
+                isin+=letter
 
-        url = f"https://www.justetf.com/it/etf-profile.html?isin={self.isin}"
+        self.isin = isin
+    
+    def load_index_name(self):
+        if self.isin == None:
+            return 
+
+        url="https://www.justetf.com/it/etf-profile.html?isin=" + self.isin
+
+        # not showing browser GUI (makes code much faster)
         options = Options()
         options.add_argument("--headless")
         browser = webdriver.Chrome(options=options)
+
         browser.get(url)
 
-        html = browser.page_source
-        self.index_name = self._extract_value_from_html(html, "replica l'indice", '.')
+        # get html of justetf page and look for index name
+        html=browser.page_source
+        index = html.find("replica l'indice",0) + 16
 
-        browser.quit()
-        
+        index_name=""
+        letter=''
+        # the index name is found before the first . symbol in the text
+        while letter!='.':
+            index += 1
+            letter = html[index]
+            if letter != '.':
+                index_name+=letter
+            if letter == '&':
+                index += 4
+
+        self.index_name = index_name
+    
+    def load_ter(self):
+        if self.isin == None:
+            return 
+
+        with open('./very_long_html.txt', 'r') as file:
+            data = file.read() # replace'\n', ''
+
+        index = data.find(self.isin,0)
+
+        i=0
+        ter=""
+        while (i<5):
+            index+=1
+            letter=data[index]
+            if letter == '"':
+                i+=1
+            if (i>=4) & (letter!='"') & (letter!='%'):
+                ter+=letter
+
+        self.ter = ter
+    
     def load_df(self):
-        load_dotenv()
-        API_KEY = os.getenv('API_KEY')
-        td = TDClient(apikey=API_KEY)
         # twelve data tickers don't include the name of the exchange (eg: VUAA.MI would simply be VUAA)
         if "." in self.ticker:
             ticker = self.ticker[0:self.ticker.rfind(".")]
@@ -143,9 +140,9 @@ class Asset:
 
     def load(self):
         if self.type == 'ETF':
-            self.update_from_html('isin')
-            self.update_from_html('ter')
-            self.update_index_name()
+            self.load_etf_isin()
+            self.load_index_name()
+            self.load_ter()
         self.load_df()
     
     def info(self):
@@ -156,5 +153,3 @@ class Asset:
         print("Index name: ", self.index_name)
         print("Isin: ", self.isin)
         print("Dataframe: \n", self.df)
-
-    
