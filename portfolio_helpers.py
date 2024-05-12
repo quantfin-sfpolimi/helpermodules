@@ -1,19 +1,9 @@
 # Libraries used
-#FIXME: are all of these used? if not, **delete them**
-import datetime as dt
-import numpy as np
-import os
 import pandas as pd
-import pickle
 import yfinance as yf #FIXME: why is yfinance being used? 
 from matplotlib import pyplot as plt
-import matplotlib.colors
-import re
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from urllib.request import urlopen
 from datetime import datetime
-import math
 
 def createURL(url, name):
     ''' 
