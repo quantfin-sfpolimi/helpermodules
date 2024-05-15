@@ -1,10 +1,8 @@
 # Libraries used
-import yfinance as yf
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from twelvedata import TDClient
 from dotenv import load_dotenv 
 import os
+import requests
 
 load_dotenv()
 API_KEY = os.getenv('API_KEY')
@@ -70,35 +68,12 @@ class Asset:
         self.isin = isin
     
     def load_index_name(self):
-        if self.isin == None:
-            return 
-
-        url="https://www.justetf.com/it/etf-profile.html?isin=" + self.isin
-
-        # not showing browser GUI (makes code much faster)
-        options = Options()
-        options.add_argument("--headless")
-        browser = webdriver.Chrome(options=options)
-
-        browser.get(url)
-
-        # get html of justetf page and look for index name
-        html=browser.page_source
-        index = html.find("replica l'indice",0) + 16
-
-        index_name=""
-        letter=''
-        # the index name is found before the first . symbol in the text
-        while letter!='.':
-            index += 1
-            letter = html[index]
-            if letter != '.':
-                index_name+=letter
-            if letter == '&':
-                index += 4
-
+        url = "https://www.justetf.com/en/etf-profile.html?isin=" + self.isin + "#overview"
+        req = requests.get(url).text
+        index_name = req.split("seeks to track the")[1].split(" index")[0]
+        
         self.index_name = index_name
-    
+
     def load_ter(self):
         if self.isin == None:
             return 
@@ -153,3 +128,13 @@ class Asset:
         print("Index name: ", self.index_name)
         print("Isin: ", self.isin)
         print("Dataframe: \n", self.df)
+    
+    def get_etf_ticker(self):
+        # FIXME: not working
+
+        url = "https://www.justetf.com/en/etf-profile.html?isin=" + self.isin + "#overview"
+        req = requests.get(url).text
+
+        ticker = req.split('<span class="d-inline-block" id="etf-second-id">')[0].split('</span>')[0]
+            
+        return ticker

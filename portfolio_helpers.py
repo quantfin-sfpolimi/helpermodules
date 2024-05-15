@@ -218,7 +218,7 @@ class Portfolio:
         if first_date_year[-1][0:4] == str(datetime.now().year):
             first_date_year.pop(-1)
         
-        start = df["key_0"].to_list().index(first_date_year[0][0:7])
+        start = df.index.to_list().index(first_date_year[0][0:7])
         annual_returns = [0]*len(first_date_year)
         capital_df = df["Capital"]
 
@@ -230,6 +230,7 @@ class Portfolio:
         return annual_returns
     
     def monthly_portfolio_return(self):
+        # TODO: ADD AMOUNT AS PARAMETER TO ALSO GET AMOUNT OF MONEY MONTH PER MONTH
         '''
         This function outputs a dataframe containing the monthly portfolio return of a list of assets. 
         Parameters:
@@ -240,13 +241,13 @@ class Portfolio:
             - month_yield [Dataframe]
         '''
         stocks_yield = self.df.dropna(how='any')
-        date=list(stocks_yield.index)
+        dates=list(stocks_yield.index)
         month_yield = pd.DataFrame(columns=['Yield'])
 
         # set initial value of each asset equal to the weight in the portfolio (ranging from 0 to 1)
-        values = self.weights
+        values = self.weights.copy()
         
-        for i in range(len(stocks_yield.index)):
+        for i in range(len(dates)):
 
             # value of each asset at the beginning of the month
             value = sum(values)
@@ -259,11 +260,11 @@ class Portfolio:
             change = (sum(values) - value)/value
 
             # set the portfolio yield for that month equal to change
-            month_yield.loc[str(date[i])[:7]] = change
+            month_yield.loc[str(dates[i])[:7]] = change
 
         return month_yield
 
-    def portfolio_return_pac(self, starting_capital, amount, fee, fee_is_in_percentage, startdate, enddate):
+    def portfolio_return_pac(self, capital, amount, fee, fee_is_in_percentage, startdate, enddate):
         '''
         The portfolio_return_pac function outputs a Dataframe with the monthly value of a portfolio built using a PAC (Piano di Accumulo di Capitale) strategy.
         The user can input a starting_capital (initial amount of money in the portfolio), the amount of money that he/she invests each month and a broker's fee.
@@ -278,30 +279,37 @@ class Portfolio:
         Returns:
             - capital_df [Dataframe]
         '''
+        stocks_yield = self.df.dropna(how='any').loc[startdate:enddate]
+        dates=list(stocks_yield.index)
+        capital_df = pd.DataFrame(columns=['Capital', 'Yield'])
+
+        # set initial value of each asset equal to the weight in the portfolio * total capital invested
+        values = [weight * capital for weight in self.weights]
         
-        # set variables up
-        month_yield = self.monthly_portfolio_return()
-        capital = starting_capital
-        capital_df = pd.DataFrame(columns=['Capital'])
-        month_yield= month_yield.loc[startdate:enddate]
-        date=list(month_yield.index)
+        for i in range(len(dates)):
+            value = sum(values)
 
-        for i in range(len(date)):
-            # FIXME: if an asset grows more than another one its weight increases --> we need to update weights for each month
-            #        on the other hand, the weight of the pac is constant thought time
-            # for each month, add the amount variable to the capital and subtract the fee 
+            # for each )asset, add the change in percentage of that asset * the asset value
+            for j in range(len(self.tickers)):
+                values[j] += values[j] * stocks_yield.iloc[i][self.tickers[j]]
+            
+
+            yield_ = (sum(values) - value)/value
+            
+            # add the weighted amount (invested every month to each asset
+            for j in range(len(self.tickers)):
+                values[j] += amount * self.weights[j]
+            
+            #print(values)
+            # set the portfolio capital equal to the portfolio value (after changes in asset value) + amount invested through pac
+            # subtract the fee (whether its value is expressed as a percentage or not)
             if fee_is_in_percentage:
-                capital += amount - amount*fee/100
-            else:
-                capital += amount - fee
+                capital = sum(values) - amount * fee/100
+            else: 
+                capital = sum(values) - fee
 
-            # update the capital variable according to the portfolio performance that month
-            capital += month_yield["Yield"].iloc[i]*capital # /100
-
-            # then, update the capital_df dataframe by filling the corresponding month with the new capital value
-            capital_df.loc[str(date[i])[:7]] = capital
-
-        capital_df = capital_df.merge(month_yield, left_on=month_yield.index, right_on=capital_df.index, how="left")
+            capital_df.loc[str(dates[i])[:7], 'Capital'] = capital
+            capital_df.loc[str(dates[i])[:7], 'Yield'] = yield_
 
         return capital_df
 
