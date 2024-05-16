@@ -166,9 +166,9 @@ class Portfolio:
         portfolio_prices = portfolio_prices.pct_change()
         self.tickers.remove("IBM")
 
-        # if given error inside this loop it's probably because an index name could not be found on nanday
-        # list, improve search algorithm to find correct index name
-        for i in (i for i in range(0,len(index_names)) if index_names[i] != ""):
+        # if it shows error inside this loop it's probably because an index name could not be found on nanday
+        # indexes list, improve search algorithm to find correct index name
+        for i in (i for i in range(0,len(index_names)) if index_names[i] != ""): 
             ticker = portfolio_tickers[i]
             return_data = get_index_prices(index_names[i], ticker)
             return_data[ticker] = return_data[ticker].pct_change()
@@ -228,8 +228,6 @@ class Portfolio:
         annual_returns = pd.DataFrame(data=annual_returns, index=first_date_year, columns=["Yield"])
     
         return annual_returns
-
-        
     
     def monthly_portfolio_return(self):
         '''
@@ -245,11 +243,24 @@ class Portfolio:
         date=list(stocks_yield.index)
         month_yield = pd.DataFrame(columns=['Yield'])
 
+        # set initial value of each asset equal to the weight in the portfolio (ranging from 0 to 1)
+        values = self.weights
+        
         for i in range(len(stocks_yield.index)):
-            change = 0
+
+            # value of each asset at the beginning of the month
+            value = sum(values)
+
+            # for each asset, add the change in percentage of that asset * the asset value
             for j in range(len(self.tickers)):
-                change += stocks_yield.iloc[i][self.tickers[j]]*self.weights[j]
+                values[j] += values[j] * stocks_yield.iloc[i][self.tickers[j]]
+            
+            # the change will be ginen by: (final value - initial value)/initial value
+            change = (sum(values) - value)/value
+
+            # set the portfolio yield for that month equal to change
             month_yield.loc[str(date[i])[:7]] = change
+
         return month_yield
 
     def portfolio_return_pac(self, starting_capital, amount, fee, fee_is_in_percentage, startdate, enddate):
@@ -276,6 +287,8 @@ class Portfolio:
         date=list(month_yield.index)
 
         for i in range(len(date)):
+            # FIXME: if an asset grows more than another one its weight increases --> we need to update weights for each month
+            #        on the other hand, the weight of the pac is constant thought time
             # for each month, add the amount variable to the capital and subtract the fee 
             if fee_is_in_percentage:
                 capital += amount - amount*fee/100
@@ -310,7 +323,7 @@ class Portfolio:
         plt.style.use("ggplot")
         plt.plot(list(self.df.keys()), list(self.df.values()))
         plt.xticks(date,  rotation=45)
-        plt.show()s
+        plt.show()
 
     def graph_returns_frequency(self):
         # FIXME: inflation and dividends data needed here!, use following format to obtain data with inflation and with inflation + dividends:
