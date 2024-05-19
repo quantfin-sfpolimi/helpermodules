@@ -68,7 +68,7 @@ class Asset:
         self.isin = isin
     
     def load_index_name(self):
-        url = "https://www.justetf.com/en/etf-profile.html?isin=" + self.isin + "#overview"
+        url = "https://www.justetf.com/en/etf-profile.html?isin=" + self.isin
         req = requests.get(url).text
         index_name = req.split("seeks to track the")[1].split(" index")[0]
         
@@ -132,9 +132,41 @@ class Asset:
     def get_etf_ticker(self):
         # FIXME: not working
 
-        url = "https://www.justetf.com/en/etf-profile.html?isin=" + self.isin + "#overview"
+        url = "https://www.justetf.com/it/etf-profile.html?isin=" + self.isin 
+
+        print("URL HERE:")
+        print(url)
         req = requests.get(url).text
+
+        print(req)
 
         ticker = req.split('<span class="d-inline-block" id="etf-second-id">')[0].split('</span>')[0]
             
         return ticker
+
+
+def extract_index():
+    with open('./all_etfs.txt', 'r') as file:
+         # [isins], [index names]
+        data = [[], []]
+        index = 0
+        
+        for line in file:
+            if (line[0] != ' ') & (line[0:6] != 'ottimi') & (line[0:3] != 'da ') & (line[0:4] != 'from') & (line != '\n') & (len(line)!=1):
+                current_index = line
+
+            elif ((line[0:4] == 'from') | (line[0:3] == 'da ')) & (line != '\n') & (len(line)!=1):
+                data[0].append(line[14:-2])
+                data[1].append(current_index[0:-1])
+
+            index += 1
+            
+    '''
+    Test me using the following code:
+
+    for i in range(0,len(data[0])):
+        print(data[0][i], data[1][i])
+    '''
+    return data
+
+
