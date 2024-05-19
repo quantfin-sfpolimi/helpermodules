@@ -1,20 +1,40 @@
 # Libraries used
-import datetime as dt
-import numpy as np
-import os
 import pandas as pd
-import pickle
 import yfinance as yf
 from matplotlib import pyplot as plt
-import matplotlib.colors
-import re
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from urllib.request import urlopen
 from datetime import datetime
-import math
+import numpy as np
+from twelvedata import TDClient
+from dotenv import load_dotenv 
+import os
 
-# NOTE: la funzione portfolio_performance è un caso particolare di portfolio_return_pac, ricordandosi di mettere i parametri amount e fee uguali a zero.
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
+td = TDClient(apikey=API_KEY)
+
+def MDD(portfolio_prices):
+    '''
+        This function, named MDD (Maximum Drawdown), calculates the maximum 
+        drawdown of a portfolio based on the portfolio prices provided as input.
+        
+        Parameters:
+            - portfolio_prices: Dictionary
+                A dictionary containing the portfolio value with corresponding dates as indices.
+        
+        Return:
+            - float
+                Maximum Drawdown (%)
+    '''
+    value=list(portfolio_prices.values())
+    mdd=0
+    ma=-1
+    for x in value:
+        ma=max(ma, x)
+        if mdd < ma-x:
+            mdd=ma-x
+            mdd_ma=ma
+    return (mdd/mdd_ma)*100
 
 def createURL(url, name):
     ''' 
@@ -146,7 +166,9 @@ class Portfolio:
         portfolio_prices = portfolio_prices.pct_change()
         self.tickers.remove("IBM")
 
-        for i in (i for i in range(0,len(index_names)-1) if index_names[i] != ""):
+        # if it shows error inside this loop it's probably because an index name could not be found on nanday
+        # indexes list, improve search algorithm to find correct index name
+        for i in (i for i in range(0,len(index_names)) if index_names[i] != ""): 
             ticker = portfolio_tickers[i]
             return_data = get_index_prices(index_names[i], ticker)
             return_data[ticker] = return_data[ticker].pct_change()
@@ -159,6 +181,7 @@ class Portfolio:
         
         portfolio_prices.drop("IBM", axis=1, inplace = True)
         portfolio_prices.dropna(axis = 0, how = 'all', inplace = True)
+
 
         return portfolio_prices
     
@@ -183,26 +206,31 @@ class Portfolio:
                 DataFrame containing the annual returns (%) of the portfolio with 
                 the year as the index and the returns as the only column.
         '''
-        
-        all_date=(list(self.df.index))
-        date = get_first_date_year(all_date)
-        
-        portfolio_year = pd.DataFrame(columns=self.tickers)
-        for i in range(0, len(date)):
-            portfolio_year.loc[date[i]]=self.df.loc[date[i]]
-        
-        stocks_yield = portfolio_year.pct_change().dropna(how='any')
-        year_yield=pd.DataFrame(columns=['Yield'])
+        df = self.df.dropna(how='any')
+        first_date_year = get_first_date_year(df.index)
+        df = self.portfolio_return_pac(1, 0, 0, False, first_date_year[0], first_date_year[-1])
 
-        for i in range(len(stocks_yield.index)):
-            mean_yield=0
-            for j in range(len(self.tickers)):
-                mean_yield+=stocks_yield.iloc[i][self.tickers[j]]*self.weights[j]
-            year_yield.loc[str(date[i])[:4]]=mean_yield*100
+        # if first year date is not january delete the year 
+        if first_date_year[0][-4] != '1':
+            first_date_year.pop(0)
 
-        return year_yield
+        # if last year is current year delete it
+        if first_date_year[-1][0:4] == str(datetime.now().year):
+            first_date_year.pop(-1)
+        
+        start = df.index.to_list().index(first_date_year[0][0:7])
+        annual_returns = [0]*len(first_date_year)
+        capital_df = df["Capital"]
+
+        for year in range(0,len(first_date_year)):
+            annual_returns[year] = (capital_df[start + (year+1)*12] - capital_df[start + year*12])/capital_df[start + year*12]
+
+        annual_returns = pd.DataFrame(data=annual_returns, index=first_date_year, columns=["Yield"])
+    
+        return annual_returns
     
     def monthly_portfolio_return(self):
+        # TODO: ADD AMOUNT AS PARAMETER TO ALSO GET AMOUNT OF MONEY MONTH PER MONTH
         '''
         This function outputs a dataframe containing the monthly portfolio return of a list of assets. 
         Parameters:
@@ -212,20 +240,31 @@ class Portfolio:
         Returns:
             - month_yield [Dataframe]
         '''
-
-        
         stocks_yield = self.df.dropna(how='any')
-        date=list(stocks_yield.index)
+        dates=list(stocks_yield.index)
         month_yield = pd.DataFrame(columns=['Yield'])
 
-        for i in range(len(stocks_yield.index)):
-            change = 0
+        # set initial value of each asset equal to the weight in the portfolio (ranging from 0 to 1)
+        values = self.weights.copy()
+        
+        for i in range(len(dates)):
+
+            # value of each asset at the beginning of the month
+            value = sum(values)
+
+            # for each asset, add the change in percentage of that asset * the asset value
             for j in range(len(self.tickers)):
-                change += stocks_yield.iloc[i][self.tickers[j]]*self.weights[j]
-            month_yield.loc[str(date[i])[:7]] = change
+                values[j] += values[j] * stocks_yield.iloc[i][self.tickers[j]]
+            
+            # the change will be ginen by: (final value - initial value)/initial value
+            change = (sum(values) - value)/value
+
+            # set the portfolio yield for that month equal to change
+            month_yield.loc[str(dates[i])[:7]] = change
+
         return month_yield
 
-    def portfolio_return_pac(self, starting_capital, amount, fee, fee_is_in_percentage, startdate, enddate):
+    def portfolio_return_pac(self, capital, amount, fee, fee_is_in_percentage, startdate, enddate):
         '''
         The portfolio_return_pac function outputs a Dataframe with the monthly value of a portfolio built using a PAC (Piano di Accumulo di Capitale) strategy.
         The user can input a starting_capital (initial amount of money in the portfolio), the amount of money that he/she invests each month and a broker's fee.
@@ -240,26 +279,37 @@ class Portfolio:
         Returns:
             - capital_df [Dataframe]
         '''
+        stocks_yield = self.df.dropna(how='any').loc[startdate:enddate]
+        dates=list(stocks_yield.index)
+        capital_df = pd.DataFrame(columns=['Capital', 'Yield'])
+
+        # set initial value of each asset equal to the weight in the portfolio * total capital invested
+        values = [weight * capital for weight in self.weights]
         
-        # set variables up
-        month_yield = self.monthly_portfolio_return()
-        capital = starting_capital
-        capital_df = pd.DataFrame(columns=['Capital'])
-        month_yield= month_yield.loc[startdate:enddate]
-        date=list(month_yield.index)
+        for i in range(len(dates)):
+            value = sum(values)
 
-        for i in range(len(date)):
-            # for each month, add the amount variable to the capital and subtract the fee 
+            # for each )asset, add the change in percentage of that asset * the asset value
+            for j in range(len(self.tickers)):
+                values[j] += values[j] * stocks_yield.iloc[i][self.tickers[j]]
+            
+
+            yield_ = (sum(values) - value)/value
+            
+            # add the weighted amount (invested every month to each asset
+            for j in range(len(self.tickers)):
+                values[j] += amount * self.weights[j]
+            
+            #print(values)
+            # set the portfolio capital equal to the portfolio value (after changes in asset value) + amount invested through pac
+            # subtract the fee (whether its value is expressed as a percentage or not)
             if fee_is_in_percentage:
-                capital += amount - amount*fee/100
-            else:
-                capital += amount - fee
+                capital = sum(values) - amount * fee/100
+            else: 
+                capital = sum(values) - fee
 
-            # update the capital variable according to the portfolio performance that month
-            capital += month_yield["Yield"].iloc[i]*capital/100
-
-            # then, update the capital_df dataframe by filling the corresponding month with the new capital value
-            capital_df.loc[str(date[i])[:7]] = capital
+            capital_df.loc[str(dates[i])[:7], 'Capital'] = capital
+            capital_df.loc[str(dates[i])[:7], 'Yield'] = yield_
 
         return capital_df
 
@@ -283,26 +333,56 @@ class Portfolio:
         plt.xticks(date,  rotation=45)
         plt.show()
 
-    def MDD(portfolio_prices):
+    def graph_returns_frequency(self):
+        # FIXME: inflation and dividends data needed here!, use following format to obtain data with inflation and with inflation + dividends:
         '''
-            This function, named MDD (Maximum Drawdown), calculates the maximum 
-            drawdown of a portfolio based on the portfolio prices provided as input.
-            
-            Parameters:
-                - portfolio_prices: Dictionary
-                    A dictionary containing the portfolio value with corresponding dates as indices.
-            
-            Return:
-                - float
-                    Maximum Drawdown (%)
+        inflation_df = pd.DataFrame(2, index=np.arange(len(self.df)), columns=["Inflation"]) 
+        merged_data = self.df.merge(inflation_df, left_on="Year", right_on="Year", how="left")
+        merged_data["Return_Adjusted_to_Inflation"] = self.df[self.ticker] - self.df["Inflation"]
         '''
-        value=list(portfolio_prices.values())
-        mdd=0
-        ma=-1
-        for x in value:
-            ma=max(ma, x)
-            if mdd < ma-x:
-                mdd=ma-x
-                mdd_ma=ma
-        return (mdd/mdd_ma)*100
-            
+
+        # FIXME: using average dividend and inflation as of now
+        avg_dividend = 3
+        avg_inflation = 2
+
+        
+        df = self.annual_portfolio_return()
+        df["Yield"] *= 100
+
+        df["Return_Adjusted_to_Inflation"] = df["Yield"] - avg_inflation
+        df["Return_Adjusted_to_Both"] = df["Return_Adjusted_to_Inflation"] + avg_dividend
+
+        # Plot return distribution with inflation adjustment
+        plt.subplot(1, 2, 1)
+
+        plt.hist(df["Yield"], bins=np.arange(min(df["Yield"]), max(df["Yield"]), 5), color='gray', alpha=0.5, label='No Adjustments', edgecolor='black', linewidth=1.2)
+        plt.hist(df["Return_Adjusted_to_Inflation"], bins=np.arange(min(df["Yield"]), max(df["Yield"]), 5), color='darkred', alpha=0.5, label='With Inflation', edgecolor='black', linewidth=1.2)
+        plt.title('Return Distribution With Inflation Adjustment')
+        plt.xlabel('Return (%)')
+        plt.ylabel('Frequency')
+        plt.legend()
+
+        # Plot return distribution with dividends and inflation adjusted
+        plt.subplot(1, 2, 2)
+        plt.hist(df["Yield"], bins=np.arange(min(df["Yield"]), max(df["Yield"]), 5), color='gray', alpha=0.5, label='No Adjustments', edgecolor='black', linewidth=1.2)
+        plt.hist(df["Return_Adjusted_to_Both"], bins=np.arange(min(df["Yield"]), max(df["Yield"]), 5), color='blue', alpha=0.5, label='With Dividends and Inflation', edgecolor='black', linewidth=1.2)
+        plt.title('Return Distribution With Dividends and Inflation Adjustment')
+        plt.xlabel('Return (%)')
+        plt.ylabel('Frequency')
+        plt.legend()
+
+        # Printing statistics for returns
+        stats_pure = df["Yield"].describe()
+        stats_both = df["Return_Adjusted_to_Both"].describe()
+
+        print("Statistics for pure Returns:")
+        print(round(stats_pure,2))
+        print()
+        print("Statistics for Returns with Dividends and Inflation Adjustment:") 
+        print(round(stats_both,2))
+
+        plt.tight_layout()
+        plt.show()
+
+
+
