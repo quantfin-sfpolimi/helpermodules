@@ -114,5 +114,3 @@ def sharpe_ratio(returns_array):
 
 
   return (cagr - risk_free_rate)/standard_deviation
-
-

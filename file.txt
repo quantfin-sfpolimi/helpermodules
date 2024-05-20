@@ -1,0 +1,2054 @@
+IE000GGQK173 abrdn Global Real Estate Active Thematics
+IE000RN036E0 Alerian Disruptive Technology Real Estate
+IE00BKPTXQ89 Alerian Midstream Energy Dividend
+GB00BNRRF105 Algorand
+CH1146882316 Algorand 
+CH1135202088 Avalanche
+DE000A3GV1T7 Avalanche
+IE000SBHVL31 AXA IM ACT Biodiversity Equity
+IE0003IT72N9 AXA IM ACT Biodiversity Equity (EUR Hedged)
+IE000Z8BHG02 AXA IM ACT Climate Equity
+IE000E66LX20 AXA IM ACT Climate Equity (EUR Hedged)
+IE000JBB8CR7 AXA IM Euro Credit PAB
+IE00BFXR6159 Barclays Backwardation Tilt Multi-Strategy Capped
+CH0496454155 Binance Coin
+DE000A27Z304 Bitcoin
+GB00BLD4ZL17 backed	Savings plan ready
+CH0454664001 backed	Savings plan ready
+DE000A28M8D0 backed	Savings plan ready
+CH0558875933 backed	Savings plan ready
+CH1199067674 backed	Savings plan ready
+DE000A3GK2N1 backed	Savings plan ready
+CH0475552201 backed	Savings plan ready
+IE00BLP53M98 BlackRock ESG Multi-Asset Conservative Portfolio
+IE00BLLZQ805 BlackRock ESG Multi-Asset Growth Portfolio
+IE00BLLZQS08 BlackRock ESG Multi-Asset Moderate Portfolio
+LU1681046006 Bloomberg BioEnergy ESG
+LU1681046188 Bloomberg BioEnergy ESG
+IE00BYPC1H27 Bloomberg China Treasury + Policy Bank
+IE00BKPSFD61 Bloomberg China Treasury + Policy Bank
+LU2439735890 Bloomberg China Treasury + Policy Bank
+IE00BKT6RT64 Bloomberg China Treasury + Policy Bank (USD Hedged)
+IE000TB7IEF3 Bloomberg China Treasury + Policy Bank + Liquid IG Credit Issuers
+IE000B8M14I0 Bloomberg China Treasury + Policy Bank + Liquid IG Credit Issuers (EUR Hedged)
+IE00B6YX5J02 Bloomberg China Treasury 100BN
+IE00BD6FTQ80 Bloomberg Commodity
+IE00BDFL4P12 Bloomberg Commodity
+DE000A0H0728 Bloomberg Commodity
+IE00BKY4W127 Bloomberg Commodity
+IE00BF0BCP69 Bloomberg Commodity
+IE00BF4J0300 Bloomberg Commodity (EUR Hedged)
+IE00B4WPHX27 Bloomberg Commodity 3 Month Forward
+LU2278080713 Bloomberg Commodity 3 Month Forward
+LU0429790743 Bloomberg Commodity 3 Month Forward (EUR Hedged)
+GB00B15KXQ89 Bloomberg Copper
+IE000YUAPTQ0 Bloomberg Electric Vehicles ESG Screened
+IE00BZ163L38 Bloomberg EM USD Sovereign + Quasi-Sov
+IE00BGYWCB81 Bloomberg EM USD Sovereign + Quasi-Sov
+IE00B6QGFW01 Bloomberg Emerging Markets Asia Local Currency Government Country Capped Bond
+IE00BFM6T814 Bloomberg Emerging Markets Asia Local Currency Government Country Capped Bond
+IE00B4613386 Bloomberg Emerging Markets Local Currency Liquid Government Bond
+IE00BFWFPY67 Bloomberg Emerging Markets Local Currency Liquid Government Bond
+IE00BK8JH525 Bloomberg Emerging Markets Local Currency Liquid Government Bond (EUR Hedged)
+IE00BF51K132 Bloomberg Emerging Markets USD Sovereign
+LU1324516050 Bloomberg Emerging Markets USD Sovereign & Agency 3% Country Capped
+LU1324516308 Bloomberg Emerging Markets USD Sovereign & Agency 3% Country Capped (EUR Hedged)
+LU1829218749 Bloomberg Energy and Metals Equal-Weighted
+LU1900069219 Bloomberg Energy and Metals Equal-Weighted (EUR Hedged)
+IE00B6YX5F63 Bloomberg Euro 1-3 Year Treasury Bond
+IE00B41RYL63 Bloomberg Euro Aggregate Bond
+IE00B87RLX93 Bloomberg Euro Aggregate Financial
+IE00B4WXJJ64 Bloomberg Euro Aggregate Treasury
+IE00BH04GL39 Bloomberg Euro Aggregate Treasury
+IE00BZ163H91 Bloomberg Euro Aggregate Treasury
+LU1048314196 Bloomberg Euro Area Liquid Corporates 1-5
+IE00B4L60045 Bloomberg Euro Corporate 1-5 Year Bond
+IE000F6G1DE0 Bloomberg Euro Corporate 1-5 Year Bond
+IE00B3F81R35 Bloomberg Euro Corporate Bond
+LU0478205379 Bloomberg Euro Corporate Bond
+IE00BF11F565 Bloomberg Euro Corporate Bond
+IE00BZ163G84 Bloomberg Euro Corporate Bond
+IE00BGYWT403 Bloomberg Euro Corporate Bond
+LU1931975079 Bloomberg Euro Corporate Bond
+IE00B3T9LM79 Bloomberg Euro Corporate Bond
+LU2089238625 Bloomberg Euro Corporate Bond
+IE00BF51K249 Bloomberg Euro Corporate Bond
+LU0478205965 Bloomberg Euro Corporate Bond
+IE00BC7GZW19 Bloomberg Euro Corporate Bond 0-3
+IE00B4L5ZG21 Bloomberg Euro Corporate ex-Financials Bond
+IE0000BH4WF5 Bloomberg Euro Corporate ex-Financials Bond
+IE00B14X4Q57 Bloomberg Euro Government Bond 1-3
+IE00B3VTMJ91 Bloomberg Euro Government Bond 1-3
+IE00B1FZS806 Bloomberg Euro Government Bond 10
+IE00B3VTN290 Bloomberg Euro Government Bond 10
+IE00BYSZ6062 Bloomberg Euro Government Bond 10+
+IE00B4WXJH41 Bloomberg Euro Government Bond 10-15
+IE00B1FZS913 Bloomberg Euro Government Bond 15-30
+IE00B3VTML14 Bloomberg Euro Government Bond 3-7
+IE00B1FZS681 Bloomberg Euro Government Bond 5
+IE00B4WXJG34 Bloomberg Euro Government Bond 5-7
+LU1645380368 Bloomberg Euro Government Inflation-Linked 1-10 Year
+LU1645381689 Bloomberg Euro Government Inflation-Linked 10+ Year
+IE00B0M62X26 Bloomberg Euro Government Inflation-Linked Bond
+LU1650491282 Bloomberg Euro Government Inflation-Linked Bond
+LU0290358224 Bloomberg Euro Government Inflation-Linked Bond
+IE00BGJWWY63 Bloomberg Euro Government Select 1-3
+IE00BGJWWV33 Bloomberg Euro Government Select 3-5
+IE00BGJWWT11 Bloomberg Euro Government Select 5-7
+IE00BGJWWW40 Bloomberg Euro Government Select 7-10
+LU0969639128 Bloomberg Euro Treasury 1-10 Bond
+LU1650487413 Bloomberg Euro Treasury 50bn 1-3 Year Bond
+LU1650489385 Bloomberg Euro Treasury 50bn 10-15 Year Bond
+LU1287023268 Bloomberg Euro Treasury 50bn 15+ Year Bond
+LU1686832194 Bloomberg Euro Treasury 50bn 25+ Year Bond
+LU1650488494 Bloomberg Euro Treasury 50bn 3-5 Year Bond
+IE00BS7K8821 Bloomberg Euro Treasury 50bn 3-5 Year Bond
+LU1287023003 Bloomberg Euro Treasury 50bn 5-7 Year Bond
+LU2090062865 Bloomberg Euro Treasury 50bn 5-7 Year Bond
+LU1287023185 Bloomberg Euro Treasury 50bn 7-10 Year Bond
+LU1437018598 Bloomberg Euro Treasury 50bn Bond
+LU1737653714 Bloomberg Euro Treasury 50bn Bond
+IE00BMYHQM42 Bloomberg Euro Treasury Bond
+IE00B3S5XW04 Bloomberg Euro Treasury Bond
+IE00B3FH7618 Bloomberg Euro Treasury Bond 0-1
+IE00B5V94313 Bloomberg Euro Treasury Germany
+LU1681046261 Bloomberg Euro Treasury Green Bond Tilted
+IE00BGJWWX56 Bloomberg Euro Treasury Majors Bond
+IE00BKWD3966 Bloomberg Euro Universal Corporate ex Financials Hybrid Capital Securities 8% Capped Bond
+IE00BKWD3B81 Bloomberg Euro Universal Corporate ex Financials Hybrid Capital Securities 8% Capped Bond
+LU0292106167 Bloomberg ex-Agriculture and Livestock 15/30 Capped 3 Month Forward (EUR Hedged)
+IE00B7LGZ558 Bloomberg France Treasury Bond
+IE00B3F81409 Bloomberg Global Aggregate Bond
+IE00B43QJJ40 Bloomberg Global Aggregate Bond
+LU1437024729 Bloomberg Global Aggregate Bond
+LU1737654019 Bloomberg Global Aggregate Bond
+IE00BDBRDM35 Bloomberg Global Aggregate Bond (EUR Hedged)
+IE00BF1QPL78 Bloomberg Global Aggregate Bond (EUR Hedged)
+LU1708330318 Bloomberg Global Aggregate Bond (EUR Hedged)
+IE000AQ7A2X6 Bloomberg Global Aggregate Bond (EUR Hedged)
+IE00BF540Y54 Bloomberg Global Aggregate Bond (GBP Hedged)
+IE00BZ043R46 Bloomberg Global Aggregate Bond (USD Hedged)
+IE00BMGNVD65 Bloomberg Global Aggregate Bond (USD Hedged)
+IE00B7J7TB45 Bloomberg Global Aggregate Corporate
+IE00BFM6TB42 Bloomberg Global Aggregate Corporate
+IE00B9M6SJ31 Bloomberg Global Aggregate Corporate (EUR Hedged)
+IE00BJSFQW37 Bloomberg Global Aggregate Corporate (EUR Hedged)
+IE00BF3N6Z78 Bloomberg Global Aggregate Corporate (USD Hedged)
+IE00BGYWFK87 Bloomberg Global Aggregate Corporate USD
+IE00BZ163K21 Bloomberg Global Aggregate Corporate USD
+IE00BGYWFL94 Bloomberg Global Aggregate Corporate USD (EUR Hedged)
+IE00BGYWSV06 Bloomberg Global Aggregate Corporate USD 1-3
+IE00BDD48R20 Bloomberg Global Aggregate Corporate USD 1-3
+IE00BG47KH54 Bloomberg Global Aggregate Float Adjusted and Scaled (EUR Hedged)
+IE00BG47KB92 Bloomberg Global Aggregate Float Adjusted and Scaled (EUR Hedged)
+IE00BGYWFS63 Bloomberg Global Aggregate US Treasury Float Adjusted
+IE00BZ163M45 Bloomberg Global Aggregate US Treasury Float Adjusted
+IE00BMX0B631 Bloomberg Global Aggregate US Treasury Float Adjusted (EUR Hedged)
+IE00BYM31M36 Bloomberg Global Corporate ex EM Fallen Angels 3% Capped
+IE00BDFJYP58 Bloomberg Global Corporate ex EM Fallen Angels 3% Capped
+IE00BF3N7219 Bloomberg Global Corporate ex EM Fallen Angels 3% Capped (EUR Hedged)
+IE00B87G8S03 Bloomberg Global Government AAA-AA Capped Bond
+IE00BZ171348 Bloomberg Global Government AAA-AA Capped Bond
+LU1910939849 Bloomberg Global Inflation-Linked 1-10
+LU1910940268 Bloomberg Global Inflation-Linked 1-10 (EUR Hedged)
+LU2098179695 Bloomberg Global Japan Treasury 1-3 Year
+IE000TVPSRI1 Bloomberg Grayscale Future of Finance
+IE00B7LW6Y90 Bloomberg Italy Treasury Bond
+IE000589MF42 Bloomberg Italy Treasury Bond
+IE00BFMM9235 Bloomberg Italy Treasury Bond (USD Hedged)
+IE00B6YX5M31 Bloomberg Liquidity Screened Euro High Yield Bond
+LU2008760592 Bloomberg MSCI 1-3Y Euro Corporate SRI Sustainable Select Ex Fossil Fuel PAB
+LU2008761053 Bloomberg MSCI 3-5Y Euro Corporate SRI Sustainable Select Ex Fossil Fuel PAB
+IE000GUOATN7 Bloomberg MSCI December 2025 Maturity EUR Corporate ESG Screened
+IE000NXQKHU1 Bloomberg MSCI December 2025 Maturity EUR Corporate ESG Screened
+IE0000X2DXK3 Bloomberg MSCI December 2025 Maturity USD Corporate ESG Screened
+IE000SIZJ2B2 Bloomberg MSCI December 2026 Maturity EUR Corporate ESG Screened
+IE000WA6L436 Bloomberg MSCI December 2026 Maturity EUR Corporate ESG Screened
+IE000BWITBP9 Bloomberg MSCI December 2026 Maturity USD Corporate ESG Screened
+IE0007UPSEA3 Bloomberg MSCI December 2026 Maturity USD Corporate ESG Screened
+IE000ZOI8OK5 Bloomberg MSCI December 2027 Maturity EUR Corporate ESG Screened
+IE000H5X52W8 Bloomberg MSCI December 2027 Maturity EUR Corporate ESG Screened
+IE000I1D7D10 Bloomberg MSCI December 2027 Maturity USD Corporate ESG Screened
+IE000264WWY0 Bloomberg MSCI December 2028 Maturity EUR Corporate ESG Screened
+IE0008UEVOE0 Bloomberg MSCI December 2028 Maturity EUR Corporate ESG Screened
+IE0000UJ3480 Bloomberg MSCI December 2028 Maturity USD Corporate ESG Screened
+IE0000VITHT2 How to implement the Core-Satellite strategy with ETFs
+IE000MCVFK47 Bloomberg MSCI EUR Corporate and Agency Green Bond
+IE00B6X2VY59 Bloomberg MSCI EUR Corporate Interest Rate Hedged Sustainable SRI
+IE000QADMYA3 Bloomberg MSCI EUR Corporate Liquid Bond Screened
+IE000F37PGZ3 Bloomberg MSCI EUR Corporate Liquid Bond Screened
+LU1829218822 Bloomberg MSCI EUR Corporate Liquid ex Financial SRI Sustainable
+IE00BF5GB717 Bloomberg MSCI EUR FRN Corporate 3% Issuer Cap Bond Sustainable SRI
+LU2533812991 Bloomberg MSCI Euro Aggregate ex Fossil Fuel SRI Select
+LU2533812728 Bloomberg MSCI Euro Aggregate ex Fossil Fuel SRI Select
+IE00B3DKXQ41 Bloomberg MSCI Euro Aggregate Sustainable and Green Bond SRI
+IE000CR3ZDF9 Bloomberg MSCI Euro Aggregate Sustainable and Green Bond SRI
+LU2182388236 Bloomberg MSCI Euro Aggregate Sustainable SRI Sector Neutral
+LU2439113387 Bloomberg MSCI Euro Aggregate Sustainable SRI Sector Neutral
+LU1805389258 Bloomberg MSCI Euro Area Liquid Corporates 1-5 Year Sustainable
+LU1484799769 Bloomberg MSCI Euro Area Liquid Corporates Sustainable
+IE00BYZTVV78 Bloomberg MSCI Euro Corporate 0-3 Sustainable SRI
+IE000AK4O3W6 Bloomberg MSCI Euro Corporate 0-3 Sustainable SRI
+LU1525418643 Bloomberg MSCI Euro Corporate 1-5 Year ESG Sustainability SRI
+IE00B4L5ZY03 Bloomberg MSCI Euro Corporate Bond ex-Financials 1-5 Year Sustainable SRI
+IE000ZX8CQG2 Bloomberg MSCI Euro Corporate Climate Paris Aligned ESG Select
+IE000SE6KPV2 Bloomberg MSCI Euro Corporate Climate Paris Aligned ESG Select
+LU2037748774 Bloomberg MSCI Euro Corporate ESG BB+ Sustainability SRI 0-3 Year
+LU1437018168 Bloomberg MSCI Euro Corporate ESG Sustainability SRI
+LU1737653987 Bloomberg MSCI Euro Corporate ESG Sustainability SRI
+LU1681039647 Bloomberg MSCI Euro Corporate ESG Sustainability SRI
+LU1812090543 Bloomberg MSCI Euro Corporate High Yield SRI Sustainable
+LU2346257210 Bloomberg MSCI Euro Corporate High Yield SRI Sustainable
+IE00BJK55C48 Bloomberg MSCI Euro Corporate High Yield Sustainable BB+ SRI Bond
+IE00BKLC5874 Bloomberg MSCI Euro Corporate High Yield Sustainable BB+ SRI Bond
+LU1829219127 Bloomberg MSCI Euro Corporate Paris Aligned Green Tilted
+LU2673523218 Bloomberg MSCI Euro Corporate September 2027 SRI
+LU2673523309 Bloomberg MSCI Euro Corporate September 2029 SRI
+LU2673523481 Bloomberg MSCI Euro Corporate September 2031 SRI
+LU2673523564 Bloomberg MSCI Euro Corporate September 2033 SRI
+LU2178481649 Bloomberg MSCI Euro Corporate SRI 0-5 Year PAB
+LU0484968812 Bloomberg MSCI Euro Corporate SRI PAB
+LU0484968903 Bloomberg MSCI Euro Corporate SRI PAB
+LU1859444769 Bloomberg MSCI Euro Corporate SRI Sustainable Select Ex Fossil Fuel PAB
+LU1953136287 Bloomberg MSCI Euro Corporate SRI Sustainable Select Ex Fossil Fuel PAB
+IE00BYZTVT56 Bloomberg MSCI Euro Corporate Sustainable and SRI
+IE000L2TO2T2 Bloomberg MSCI Euro Corporate Sustainable and SRI
+IE00BMDBMN04 Bloomberg MSCI Euro Green Bond SRI including Nuclear Power
+IE000IZO7033 Bloomberg MSCI Euro Green Bond SRI including Nuclear Power
+LU2244386053 Bloomberg MSCI Euro High Yield SRI Sustainable Ex Fossil Fuel
+LU2244386137 Bloomberg MSCI Euro High Yield SRI Sustainable Ex Fossil Fuel
+IE0006GNB732 Bloomberg MSCI Euro High Yield Sustainable and SRI
+IE000XGNMWE1 Bloomberg MSCI Global Aggregate 1-3 SRI Carbon ESG-Weighted
+LU2470620761 Bloomberg MSCI Global Aggregate 500MM ex Securitized Sustainable SRI 1-5 Year Sector Neutral
+LU2470620845 Bloomberg MSCI Global Aggregate 500MM ex Securitized Sustainable SRI 1-5 Year Sector Neutral (EUR Hedged)
+LU2439734141 Bloomberg MSCI Global Aggregate 500MM ex Securitized Sustainable SRI Sector Neutral
+LU2439733507 Bloomberg MSCI Global Aggregate 500MM ex Securitized Sustainable SRI Sector Neutral (EUR Hedged)
+IE000APK27S2 Bloomberg MSCI Global Aggregate Sustainable and Green Bond SRI (EUR Hedged)
+LU0942970103 Bloomberg MSCI Global Aggregate Sustainable and SRI Currency Neutral
+LU0942970798 Bloomberg MSCI Global Aggregate Sustainable and SRI Currency Neutral (EUR Hedged)
+LU1525418726 Bloomberg MSCI Global Corporate ESG Sustainability SRI 1-5 Year
+IE00BNDS1Q47 Bloomberg MSCI Global Corporate Float-Adjusted Liquid Bond Screened (EUR Hedged)
+IE00BNDS1P30 Bloomberg MSCI Global Corporate Float-Adjusted Liquid Bond Screened (EUR Hedged)
+LU2099295466 Bloomberg MSCI Global Corporate High Yield SRI Sustainable
+LU2099296274 Bloomberg MSCI Global Corporate High Yield SRI Sustainable (EUR Hedged)
+LU1981859819 Bloomberg MSCI Global Green Bond 1-10 Year
+LU1981860072 Bloomberg MSCI Global Green Bond 1-10 Year (EUR Hedged)
+LU2484583138 Bloomberg MSCI Global Green Bond 1-10 Year Sustainability Select
+LU2484583302 Bloomberg MSCI Global Green Bond 1-10 Year Sustainability Select (EUR Hedged)
+IE000XG0ZRI7 Bloomberg MSCI Global High Yield Liquid Corporate ESG Weighted SRI Bond (EUR Hedged)
+LU2099991536 Bloomberg MSCI Global Liquid Corporates Sustainable Bond
+LU2099992260 Bloomberg MSCI Global Liquid Corporates Sustainable Bond (EUR Hedged)
+LU2611732806 Bloomberg MSCI US Aggregate ex Securitized Sustainable SRI Sector Neutral
+IE00BZ048579 Bloomberg MSCI US Corporate 0-3 Sustainable SRI
+IE00BG5QQ390 Bloomberg MSCI US Corporate 0-3 Sustainable SRI (EUR Hedged)
+LU1435356149 Bloomberg MSCI US Corporate High Yield SRI Sustainable
+LU1435356065 Bloomberg MSCI US Corporate High Yield SRI Sustainable
+LU1435356495 Bloomberg MSCI US Corporate High Yield SRI Sustainable (EUR Hedged)
+IE00BJK55B31 Bloomberg MSCI US Corporate High Yield Sustainable BB+ SRI Bond
+IE00BKF09C98 Bloomberg MSCI US Corporate High Yield Sustainable BB+ SRI Bond
+IE00BMDFDY08 Bloomberg MSCI US Corporate High Yield Sustainable BB+ SRI Bond (EUR Hedged)
+LU1806495575 Bloomberg MSCI US Corporate SRI
+LU2297533809 Bloomberg MSCI US Corporate SRI (EUR Hedged)
+IE00BKKKWJ26 Bloomberg MSCI US Corporate Sustainable SRI
+IE00BK4W7N32 Bloomberg MSCI US Corporate Sustainable SRI
+IE00BH4G7D40 Bloomberg MSCI US Corporate Sustainable SRI (EUR Hedged)
+IE0006YM7D84 Bloomberg MSCI US High Yield Sustainable and SRI
+LU2408467723 Bloomberg MSCI US Liquid Corporates 1-5 Year Sustainable
+LU2408468291 Bloomberg MSCI US Liquid Corporates 1-5 Year Sustainable (EUR Hedged)
+LU1215461085 Bloomberg MSCI US Liquid Corporates Sustainable
+LU1215461168 Bloomberg MSCI US Liquid Corporates Sustainable
+LU1215461325 Bloomberg MSCI US Liquid Corporates Sustainable (EUR Hedged)
+IE0003W9O921 Bloomberg MSCI USD Corporate and Agency Green Bond
+IE00028H9QJ8 Bloomberg MSCI USD Corporate and Agency Green Bond (EUR Hedged)
+IE000JQV8511 Bloomberg MSCI USD Corporate Float-Adjusted Liquid Bond Screened
+IE000RO1O3N4 Bloomberg MSCI USD Corporate Float-Adjusted Liquid Bond Screened
+IE000EKJRSZ3 Bloomberg MSCI USD Corporate Float-Adjusted Liquid Bond Screened (EUR Hedged)
+LU1285959703 Bloomberg MSCI USD Corporate Paris Aligned Green Tilted
+LU1285959885 Bloomberg MSCI USD Corporate Paris Aligned Green Tilted
+LU1285960032 Bloomberg MSCI USD Corporate Paris Aligned Green Tilted (EUR Hedged)
+IE00BF8J5974 Bloomberg MSCI USD Corporate SRI 0-5 Years PAB
+IE00BJP5NL42 Bloomberg MSCI USD High Yield Liquid Corporate ESG Weighted SRI Bond
+IE00BL58LJ19 Bloomberg MSCI USD Liquid Investment Grade Corporate SRI PAB
+IE00BL58LL31 Bloomberg MSCI USD Liquid Investment Grade Corporate SRI PAB (EUR Hedged)
+GB00B15KY211 Bloomberg Nickel
+LU2491210618 Bloomberg PAB APAC DM ex-Japan Large & Mid Cap
+LU1847674733 Bloomberg PAB Eurozone DM Large & Mid Cap
+LU1655103643 Bloomberg PAB Japan Large & Mid Cap
+LU1655103726 Bloomberg PAB Japan Large & Mid Cap (EUR Hedged)
+IE000IIED424 Bloomberg PAB US Large & Mid Cap
+IE00BZ1NCS44 Bloomberg Roll Select Commodity
+IE00B6YX5H87 Bloomberg SASB Euro Corporate 0-3 year ESG Ex-Controversies Select
+IE00BLF7VX27 Bloomberg SASB US Corporate ESG Ex-Controversies Select
+IE00BFY0GV36 Bloomberg SASB US Corporate ESG Ex-Controversies Select (EUR Hedged)
+IE00B99FL386 Bloomberg SASB US Corporate High Yield ESG Ex-Controversies Select
+IE00BYTH5602 Bloomberg SASB US Corporate High Yield ESG Ex-Controversies Select (EUR Hedged)
+IE00BLRPPV00 Bloomberg Short Treasury
+IE00B428Z604 Bloomberg Spain Treasury Bond
+IE00BFMM8Y81 Bloomberg Spain Treasury Bond (USD Hedged)
+IE00B4694Z11 Bloomberg Sterling Corporate Bond
+IE00BCBJF711 Bloomberg Sterling Corporate Bond 0-5
+IE00BMX0B524 Bloomberg Sterling Gilt Float Adjusted (EUR Hedged)
+IE00B3W74078 Bloomberg UK Gilt
+IE00B6YX5K17 Bloomberg UK Gilt 1-5
+IE00B6YX5L24 Bloomberg UK Gilt 15+
+IE00B1FZSD53 Bloomberg UK Government Inflation-Linked Bond
+IE00BF2FNG46 Bloomberg US 1-3 Year Treasury Bond
+LU1407887089 Bloomberg US 1-3 Year Treasury Bond
+LU1407887162 Bloomberg US 1-3 Year Treasury Bond
+IE00BC7GZJ81 Bloomberg US 1-3 Year Treasury Bond
+LU0721552544 Bloomberg US 1-3 Year Treasury Bond
+LU1407887329 Bloomberg US 1-3 Year Treasury Bond (EUR Hedged)
+LU1324510525 Bloomberg US 1-3 Year Treasury Bond (EUR Hedged)
+IE00BYSZ5V04 Bloomberg US 10+ Year Treasury Bond
+LU1459800113 Bloomberg US 10+ Year Treasury Bond (EUR Hedged)
+IE00BF2FNQ44 Bloomberg US 3-7 Year Treasury Bond
+IE00BYSZ5R67 Bloomberg US 3-7 Year Treasury Bond
+LU1407888996 Bloomberg US 3-7 Year Treasury Bond
+IE00BF2FN646 Bloomberg US 7-10 Year Treasury Bond
+LU1407888053 Bloomberg US 7-10 Year Treasury Bond
+IE00BYSZ5T81 Bloomberg US 7-10 Year Treasury Bond
+LU0721552973 Bloomberg US 7-10 Year Treasury Bond
+IE00BF2FN869 Bloomberg US 7-10 Year Treasury Bond (EUR Hedged)
+LU1407888137 Bloomberg US 7-10 Year Treasury Bond (EUR Hedged)
+IE00BYXYYM63 Bloomberg US Aggregate Bond
+IE00B44CGS96 Bloomberg US Aggregate Bond
+IE00B459R192 Bloomberg US Aggregate Bond
+IE00BDFJYM28 Bloomberg US Aggregate Bond (EUR Hedged)
+IE00BC7GZX26 Bloomberg US Corporate 0-3
+IE00BZ0G8860 Bloomberg US Corporate 10+
+IE00BKX90X67 Bloomberg US Enhanced Inflation (EUR Hedged)
+IE00BDFGJ627 Bloomberg US Floating Rate Notes 1-5
+IE00BZ048462 Bloomberg US Floating Rate Notes 1-5
+IE00BF11F458 Bloomberg US Floating Rate Notes 1-5 (EUR Hedged)
+LU1459801434 Bloomberg US Government 1-10 Year Inflation-Linked Bond
+LU1459801780 Bloomberg US Government 1-10 Year Inflation-Linked Bond (EUR Hedged)
+LU1459802754 Bloomberg US Government 10+ Year Inflation-Linked Bond
+LU1459803059 Bloomberg US Government 10+ Year Inflation-Linked Bond (EUR Hedged)
+IE00B1FZSC47 Bloomberg US Government Inflation-Linked Bond
+LU1452600270 Bloomberg US Government Inflation-Linked Bond
+IE00BZ0G8977 Bloomberg US Government Inflation-Linked Bond
+IE000F6XDNZ5 Bloomberg US Government Inflation-Linked Bond
+LU1525419294 Bloomberg US Government Inflation-Linked Bond
+IE00BDZVH966 Bloomberg US Government Inflation-Linked Bond (EUR Hedged)
+LU2339917168 Bloomberg US Government Inflation-Linked Bond (EUR Hedged)
+IE00BDR5HM97 Bloomberg US High Yield Very Liquid ex 144A
+IE00BG04LT92 Bloomberg US High Yield Very Liquid ex 144A (EUR Hedged)
+LU1452600437 Bloomberg US Inflation Linked Bonds (EUR Hedged)
+LU1452600197 Bloomberg US Inflation Linked Bonds TR
+IE00BYV12Y75 Bloomberg US Intermediate Corporate Bond
+IE00BDQZ5152 Bloomberg US Intermediate Credit Bond
+LU1048316647 Bloomberg US Liquid Corporates
+LU1048317025 Bloomberg US Liquid Corporates (EUR Hedged)
+LU1048314949 Bloomberg US Liquid Corporates 1-5
+LU1048315243 Bloomberg US Liquid Corporates 1-5 (EUR Hedged)
+LU1407890620 Bloomberg US Long Treasury
+LU1407890547 Bloomberg US Long Treasury
+IE00BKWD3743 Bloomberg US Long Treasury
+LU1407890976 Bloomberg US Long Treasury (EUR Hedged)
+IE000FXHG8D6 Bloomberg US Long Treasury (EUR Hedged)
+IE00BZ6V7883 Bloomberg US Mortgage Backed Securities
+LU2182388665 Bloomberg US Short Treasury
+LU2182388749 Bloomberg US Short Treasury (EUR Hedged)
+IE00B44CND37 Bloomberg US Treasury
+IE00BF2GFH28 Bloomberg US Treasury
+LU1407887915 Bloomberg US Treasury 7-10
+IE00BKWD3C98 Bloomberg US Treasury Coupons
+IE00BJJYYX67 Bloomberg US Treasury Floating Rate Bond
+IE00BF51K025 Bloomberg USD IG Corporate Liquidity Screened Bond
+IE00BZ036H21 Bloomberg USD Liquid Investment Grade Corporate
+IE00BZ036J45 Bloomberg USD Liquid Investment Grade Corporate (EUR Hedged)
+IE00B3B8PX14 Bloomberg World Government Inflation-Linked Bond
+LU0908508814 Bloomberg World Government Inflation-Linked Bond
+LU0290357929 Bloomberg World Government Inflation-Linked Bond (EUR Hedged)
+IE00BKPT2S34 Bloomberg World Government Inflation-Linked Bond (EUR Hedged)
+LU0962078753 Bloomberg World Government Inflation-Linked Bond (EUR Hedged)
+IE00BD8PH174 Bloomberg World Government Inflation-Linked Bond (EUR Hedged)
+LU0641007009 Bloomberg World Government Inflation-Linked Bond (USD Hedged)
+LU1291109616 BNP Paribas Energy & Metals Enhanced Roll
+LU1547516291 BNP Paribas Energy & Metals Enhanced Roll (EUR Hedged)
+LU2244387887 BNP Paribas Growth Europe ESG
+LU1615090864 BNP Paribas High Dividend Europe ESG
+LU1377381717 BNP Paribas Low Vol Europe ESG
+LU1377381980 BNP Paribas Low Vol US ESG
+LU1377382012 BNP Paribas Momentum Europe ESG
+LU1377382103 BNP Paribas Quality Europe ESG
+LU1377382285 BNP Paribas Value Europe ESG
+IE00BD8D5G25 BofA Merrill Lynch 0-5 Year Euro Developed Markets High Yield 2% Constrained
+IE00BD8D5H32 BofA Merrill Lynch 0-5 Year Euro Developed Markets High Yield 2% Constrained
+IE00BDVJF675 BofA Merrill Lynch Diversified Core Plus Fixed Rate Preferred Securities
+IE00BDT8V027 BofA Merrill Lynch Diversified Core Plus Fixed Rate Preferred Securities (EUR Hedged)
+IE00B7N3YW49 BofA Merrill Lynch US High Yield Constrained 0-5
+IE00BF8HV600 BofA Merrill Lynch US High Yield Constrained 0-5 (EUR Hedged)
+IE00BJGWQN72 BVP Nasdaq Emerging Cloud
+FR0007052782 CAC 40Ã‚Â®
+FR0013380607 CAC 40Ã‚Â®
+LU0322250985 CAC 40Ã‚Â®
+LU1681046931 CAC 40Ã‚Â® ESG
+LU1681047079 CAC 40Ã‚Â® ESG
+XS2353177293 backed	Savings plan ready
+CH1102728750 backed	Savings plan ready
+GB00BNRRF659 backed	Savings plan ready
+DE000A3GVKY4 backed	Savings plan ready
+IE00BM8R0J59 Cboe Nasdaq-100 BuyWrite
+IE000LSRKCB4 Cboe S&P 500 15% WHT Quarterly 5% Buffer Protect
+IE000EPX8KB7 Cboe S&P 500 15% WHT Quarterly 9% (-3% to -12%) Buffer Protect
+IE0009BM62P2 Cboe S&P 500 Annual 15% Buffer Protect
+IE000HGH8PV2 Cboe S&P 500 Annual 30% (-5% to -35%) Buffer Protect
+IE0002L5QB31 Cboe S&P 500 BuyWrite 15% WHT
+IE000MO2MB07 CenterSquare New Economy Real Estate
+IE000X9TLGN8 CenterSquare New Economy Real Estate
+CH1100083471 backed	Savings plan ready
+GB00BMWB4910 backed	Savings plan ready
+DE000A3GXNV0 backed	Savings plan ready
+IE00BGBN6P67 CoinShares Blockchain Global Equity
+GB00BNRRF980 backed	Savings plan ready
+CH1145930991 backed	Savings plan ready
+LU0779800910 CSI 300
+LU0875160326 CSI 300
+IE00BFXR7900 CSI Overseas China Internet
+IE00B3CNHG25 DAXglobalÃ‚Â® Gold Miners
+DE0005933931 DAXÃ‚Â®
+LU0274211480 DAXÃ‚Â®
+FR0010655712 DAXÃ‚Â®
+LU0252633754 DAXÃ‚Â®
+DE000A2QP331 DAXÃ‚Â®
+LU2240851688 DAXÃ‚Â® 50 ESG
+LU0838782315 DAXÃ‚Â® ESG Screened
+LU1221102491 DAXÃ‚Â® ESG Screened (CHF Hedged)
+LU1221100792 DAXÃ‚Â® ESG Screened (USD Hedged)
+DE000A0Q4R69 DAXÃ‚Â® ESG Target
+DE0002635273 DivDAXÃ‚Â®
+IE00B14X4T88 Dow Jones Asia/Pacific Select Dividend 50
+DE000A0F5UE8 Dow Jones China Offshore 50
+IE00B652H904 Dow Jones Emerging Markets Select Dividend
+IE00B8GF1M35 Dow Jones Global Select Real Estate Securities
+IE00BH4GR342 Dow Jones Global Select Real Estate Securities
+DE0006289382 Dow Jones Global Titans 50
+FR0007075494 Dow Jones Global Titans 50
+IE00B53L4350 Dow Jones Industrial Average
+FR0007056841 Dow Jones Industrial Average
+LU2572256662 Dow Jones Industrial Average
+IE00BT9PVG14 Dow Jones International Internet
+DE000A0F5UG3 Dow Jones Sustainability Eurozone ex Alcohol, Tobacco, Gambling and others
+IE00B57X3V84 Dow Jones Sustainability World ex Alcohol, Tobacco, Gambling and others
+DE000A0D8Q49 Dow Jones US Select Dividend
+IE00BMX0DF60 Dow Jones US Select Medical Equipment Capped 35/20
+DE0006289465 eb.rexxÃ‚Â® Government Germany
+DE000A0Q4RZ9 eb.rexxÃ‚Â® Government Germany 0-1
+LU1953136527 ECPI Circular Economy Leaders Equity
+LU2194447293 ECPI Global ESG Blue Economy
+LU2365458145 ECPI Global ESG Hydrogen Economy
+2365457410 ECPI Global ESG Medical Tech
+00BFYN8Y92 EMQQ Emerging Markets Internet & Ecommerce
+000OJ5TQP4 EQM NATO+ Future of Defence
+0454664027 Ethereum
+00BLD4ZM24 Ethereum
+000A3GPSP7 Ethereum
+000A3GMKD7 Ethereum
+1209763130 ETF sui BTP Italiani: come investire in obbligazioni con gli ETF
+00BZ4BMM98 EURO iSTOXXÃ‚Â® High Dividend Low Volatility 50
+000A0D8Q07 EURO STOXXÃ‚Â®
+00B53L3W79 EURO STOXXÃ‚Â® 50
+0380865021 EURO STOXXÃ‚Â® 50
+0008471009 EURO STOXXÃ‚Â® 50
+0274211217 EURO STOXXÃ‚Â® 50
+0007054358 EURO STOXXÃ‚Â® 50
+1681047236 EURO STOXXÃ‚Â® 50
+00B4K6B022 EURO STOXXÃ‚Â® 50
+00B60SWX25 EURO STOXXÃ‚Â® 50
+1681047319 EURO STOXXÃ‚Â® 50
+0136234068 EURO STOXXÃ‚Â® 50
+0012739431 EURO STOXXÃ‚Â® 50
+000MWUQBJ0 EURO STOXXÃ‚Â® 50
+00B5B5TG76 EURO STOXXÃ‚Â® 50
+0012399772 EURO STOXXÃ‚Â® 50 (GBP Hedged)
+1971906802 EURO STOXXÃ‚Â® 50 ESG
+000LXEN6X4 EURO STOXXÃ‚Â® 50 ESG
+1829219390 EURO STOXXÃ‚Â® Banks
+0006289309 EURO STOXXÃ‚Â® Banks 30-15
+00BFTWP510 EURO STOXXÃ‚Â® Low Risk Weighted 100
+00B02KXL92 EURO STOXXÃ‚Â® Mid
+0292095535 EURO STOXXÃ‚Â® Quality Dividend 50
+00B0M62S72 EURO STOXXÃ‚Â® Select Dividend 30
+00B02KXM00 EURO STOXXÃ‚Â® Small
+00B0M62V02 EURO STOXXÃ‚Â® Total Market (TMI) Growth Large
+0002UTLE51 Euronext ESG Biodiversity Screened World
+2446381555 Euronext ESG Eurozone Biodiversity Leaders PAB
+0002MXIF34 Fidelity Clean Energy ESG Tilted
+000M0ZXLY9 Fidelity Cloud Computing ESG Tilted
+000BPQIAA3 Fidelity Digital Health ESG Tilted
+0009MG7KH8 Fidelity Electric Vehicles and Future Transportation ESG Tilted
+00BYSX4739 Fidelity Emerging Markets Quality Income
+00BYSX4846 Fidelity Emerging Markets Quality Income
+00BYSX4176 Fidelity Europe Quality Income
+00BYSX4283 Fidelity Europe Quality Income
+00BYXVGZ48 Fidelity Global Quality Income
+00BYV1YH46 Fidelity Global Quality Income (EUR Hedged)
+000TLLSP66 Fidelity Metaverse ESG Tilted
+00BM9GRM34 Fidelity Sustainable Global Corporate Bond Paris-Aligned Multifactor
+0006QCIHM0 Fidelity Sustainable Global Corporate Bond Paris-Aligned Multifactor (EUR Hedged)
+0006OIQXE9 Fidelity Sustainable Global High Yield Bond Paris-Aligned Multifactor
+0006KNOFD1 Fidelity Sustainable Global High Yield Bond Paris-Aligned Multifactor (EUR Hedged)
+00BLRPN388 Fidelity Sustainable Research Enhanced Emerging Markets Equity
+00BKSBGT50 Fidelity Sustainable Research Enhanced Europe Equity
+00BKSBGV72 Fidelity Sustainable Research Enhanced Global Equity
+00BNGFMX61 Fidelity Sustainable Research Enhanced Japan Equity
+000B5UZSG9 Fidelity Sustainable Research Enhanced Japan Equity
+00BNGFMY78 Fidelity Sustainable Research Enhanced Pacific ex-Japan Equity
+00BKSBGS44 Fidelity Sustainable Research Enhanced US Equity
+00BM9GRP64 Fidelity Sustainable USD EM Bond
+00BYXVGX24 Fidelity US Quality Income
+00BYXVGY31 Fidelity US Quality Income
+00BYV1Y969 Fidelity US Quality Income (EUR Hedged)
+00BD5HBS12 First Trust FactorFX (EUR Hedged)
+00BKPSPT20 First Trust Global Capital Strength ESG Leaders
+00BLRPRQ96 Foxberry Digital Payments Economy
+000RMSPY39 Foxberry SMS Circular Economy Enablers
+00BLRPRR04 Foxberry SMS Environmental Impact 100
+000QUCVEN9 Foxberry SMS Global Sustainable Infrastructure
+000PY7F8J9 Foxberry SMS USA Environmental Impact
+00BKLTRN76 Foxberry Sustainability Consensus Europe
+000HLUHPT1 Foxberry Sustainability Consensus Japan
+000Z9UVQ99 Foxberry Sustainability Consensus Pacific ex Japan
+00BKLWY790 Foxberry Sustainability Consensus US
+00BJXRZJ40 Foxberry Tematica Research Cybersecurity & Data Privacy
+00BLRPQH31 Foxberry Tematica Research Sustainable Future of Food
+000H0TSO96 Franklin Euro IG Corporate
+00BFWXDY69 Franklin Euro Short Maturity
+000STIHQB2 Franklin Euro Short Maturity
+00BHZRR253 Franklin Sustainable Euro Green Bond
+0006K7DEL9 Franklin Sustainable Euro Green Corporate 1-5 Year
+000P0R7WK6 Franklin Sustainable Euro Green Sovereign
+00BF2B0P08 Franklin US Equity
+00BFWXDX52 Franklin USD Investment Grade Corporate Bond
+0005042456 FTSE 100
+00B810Q511 FTSE 100
+00B53HP851 FTSE 100
+00B42TW061 FTSE 100
+1650492173 FTSE 100
+0136242590 FTSE 100
+0292097234 FTSE 100
+0838780707 FTSE 100
+1650492330 FTSE 100 (EUR Hedged)
+00BYZ28W67 FTSE 100 (USD Hedged)
+0292097317 FTSE 250
+00B1FZSB30 FTSE Actuaries UK Conventional Gilts All Stocks
+000BI0GCN3 FTSE Actuaries UK Conventional Gilts All Stocks (EUR Hedged)
+00BLDGH553 FTSE Advanced Climate Risk-Adjusted European Monetary Union Government Bond
+00BLDGH447 FTSE Advanced Climate Risk-Adjusted European Monetary Union Government Bond
+00BL0BMG90 FTSE Advanced Climate Risk-Adjusted World Government Bond
+00B7452L46 FTSE All-Share
+00B3RBWM25 FTSE All-World
+00BK5BQT80 FTSE All-World
+000716YHJ7 FTSE All-World
+0006VDD4K1 FTSE All-World (EUR Hedged)
+00B8GKDB10 FTSE All-World High Dividend Yield
+00BFWXDV39 FTSE Asia ex Japan ex China
+00BKY58G26 FTSE Asia Pacific ex Japan ESG Low Carbon Select
+0494592974 FTSE Australian Government Bond
+00B1W57M07 FTSE BIC 50
+00BHZRQY00 FTSE Brazil 30/18 Capped
+00BHZRR147 FTSE China 30/18 Capped
+00B02KXK85 FTSE China 50
+0292109856 FTSE China 50
+1310477036 FTSE China A-H 50
+1094612022 FTSE Chinese Government and Policy Bank Bond 1-10 Years Capped
+00BKX55T58 FTSE Developed
+00BK5BQV03 FTSE Developed
+000GOJO2A3 FTSE Developed Asia Pacific All Cap Choice
+0008T6IUX0 FTSE Developed Asia Pacific All Cap Choice
+00B9F5YL18 FTSE Developed Asia Pacific ex Japan
+00BK5BQZ41 FTSE Developed Asia Pacific ex Japan
+00BMYDMB35 FTSE Developed Asia Pacific ex Japan All Cap ex CW ex TC ex REITS Dividend Growth with Quality
+00BKY59K37 FTSE Developed ESG Low Carbon Select
+00B945VV12 FTSE Developed Europe
+00BK5BQX27 FTSE Developed Europe
+000QUOSE01 FTSE Developed Europe All Cap Choice
+000NRGX9M3 FTSE Developed Europe All Cap Choice
+00BKY55W78 FTSE Developed Europe ESG Low Carbon Select
+000WARATZ3 FTSE Developed Europe ESG Low Carbon Select
+00BKX55S42 FTSE Developed Europe ex UK
+00BK5BQY34 FTSE Developed Europe ex UK
+00BMYDM919 FTSE Developed Europe ex UK All Cap ex CW ex TC ex REITS Dividend Growth with Quality
+00B3VVMM84 FTSE Emerging
+00BK5BR733 FTSE Emerging
+000KPJJWM6 FTSE Emerging All Cap Choice
+0001VXZTV7 FTSE Emerging All Cap Choice
+00BKY59G90 FTSE Emerging ESG Low Carbon Select
+00BYYXBF44 FTSE Emerging Markets High Dividend Low Volatility
+0677077884 FTSE Emerging Markets USD Government and Government-Related Bond Select
+1920015440 FTSE Emerging Markets USD Government and Government-Related Bond Select
+0321462953 FTSE Emerging Markets USD Government and Government-Related Bond Select (EUR Hedged)
+2361257269 FTSE Emerging Markets USD Government and Government-Related Bond Select (EUR Hedged)
+2008763935 FTSE EPRA Nareit Developed Europe ex UK Green
+00BMDX0K95 FTSE EPRA Nareit Developed Green
+2365458905 FTSE EPRA Nareit Developed Green EU CTB
+00B5L01S80 FTSE EPRA/NAREIT Developed
+1437018838 FTSE EPRA/NAREIT Developed
+1832418773 FTSE EPRA/NAREIT Developed
+1737652823 FTSE EPRA/NAREIT Developed
+000G6GSP88 FTSE EPRA/NAREIT Developed
+00B1FZS244 FTSE EPRA/NAREIT Developed Asia Dividend+
+00BGDPWV87 FTSE EPRA/NAREIT Developed Asia Dividend+
+00B1FZS350 FTSE EPRA/NAREIT Developed Dividend+
+00BFM6T921 FTSE EPRA/NAREIT Developed Dividend+
+00BDZVHD04 FTSE EPRA/NAREIT Developed Dividend+ (EUR Hedged)
+0489337690 FTSE EPRA/NAREIT Developed Europe
+00BGDQ0L74 FTSE EPRA/NAREIT Developed Europe
+1681039480 FTSE EPRA/NAREIT Developed Europe
+1291091228 FTSE EPRA/NAREIT Developed Europe
+1812091194 FTSE EPRA/NAREIT Developed Europe
+1859445063 FTSE EPRA/NAREIT Developed Europe (EUR Hedged)
+00BSJCQV56 FTSE EPRA/NAREIT Developed Europe ex UK
+00BP8FKB21 FTSE EPRA/NAREIT Developed Europe ex UK Capped
+00B0M63284 FTSE EPRA/NAREIT Developed Europe ex UK Dividend+
+0950381748 FTSE EPRA/NAREIT Eurozone Capped
+00B1TXLS18 FTSE EPRA/NAREIT United Kingdom
+000FI414K7 FTSE EPRA/NAREIT United Kingdom (EUR Hedged)
+00B1FZSF77 FTSE EPRA/NAREIT United States Dividend+
+2468423459 FTSE ESG Select EMU Government Bond
+2462217071 FTSE ESG Select World Government Bond Developed Markets
+2385068163 FTSE ESG Select World Government Bond Developed Markets
+2385068593 FTSE ESG Select World Government Bond Developed Markets (EUR Hedged)
+0613540268 FTSE Eurozone BOT
+0010754200 FTSE Eurozone Government Bill 0-6 Month Capped
+00B3BPCH51 FTSE Eurozone Government Bill 0-6 Month Capped
+0010754184 FTSE Eurozone Government Broad Investment Grade 7-10
+2099289147 FTSE G7 and EMU Government Bond (EUR Hedged)
+00B3F81K65 FTSE G7 Government Bond
+00BYZ28V50 FTSE G7 Government Bond
+00BKT6FT27 FTSE G7 Government Bond (EUR Hedged)
+00BNG8L278 FTSE Global All Cap Choice
+00BNG8L385 FTSE Global All Cap Choice
+00B1FZS467 FTSE Global Core Infrastructure
+000CK5G8J7 FTSE Global Core Infrastructure
+00BJSBCS90 FTSE Goldman Sachs China Government Bond
+1681046691 FTSE Highest-Rated Eurozone Government Bond
+00BHZRQZ17 FTSE India 30/18 Capped
+1605710802 FTSE Italia PIR All Cap
+00BF5LJ058 FTSE Italia PIR Mid Small Cap
+0011758085 FTSE Italia PIR PMI
+00B95PGT31 FTSE Japan
+00BFMXYX26 FTSE Japan
+00BFMXYY33 FTSE Japan (EUR Hedged)
+00BKY55S33 FTSE Japan ESG Low Carbon Select
+0952581584 FTSE Japanese Government Bond
+00BHZRR030 FTSE Korea 30/18 Capped
+1681046774 FTSE Lowest-Rated Eurozone Government Bond Investment Grade
+1681046857 FTSE Lowest-Rated Eurozone Government Bond Investment Grade
+1681046345 FTSE Lowest-Rated Eurozone Government Bond Investment Grade 1-3
+0010010827 FTSE MIB
+00B53L4X51 FTSE MIB
+00B1XNH568 FTSE MIB
+0274212538 ETF sui BTP Italiani: come investire in obbligazioni con gli ETF
+0014002H76 ETF sui BTP Italiani: come investire in obbligazioni con gli ETF
+00BK5BQW10 FTSE North America
+000O58J820 FTSE North America All Cap Choice
+000L2ZNB07 FTSE North America All Cap Choice
+00B23LNQ02 FTSE RAFI All-World 3000
+00B23D9570 FTSE RAFI Emerging Markets
+00B23D8X81 FTSE RAFI Europe
+00B23D8S39 FTSE RAFI US 1000
+000CM02H85 FTSE Taiwan 30/18 Capped
+00BD0Q9673 FTSE Time-Weighted US Fallen Angel Bond Select
+00BYVTMZ20 FTSE Time-Weighted US Fallen Angel Bond Select (EUR Hedged)
+00B0M63060 FTSE UK Dividend+
+00BM97MR69 FTSE US Treasury Short Duration
+00BKY40J65 FTSE USA ESG Low Carbon Select
+0322252924 FTSE Vietnam
+00BKRWN659 FTSE World Broad Investment-Grade USD Multilateral Development Bank Bond Capped
+00BMCZLH06 FTSE World Broad Investment-Grade USD Multilateral Development Bank Bond Capped (EUR Hedged)
+0908508731 FTSE World Government Bond - Developed Markets
+0378818131 FTSE World Government Bond - Developed Markets (EUR Hedged)
+0690964092 FTSE World Government Bond - Developed Markets (EUR Hedged)
+00B579F325 Gold
+00B4ND3602 Gold
+00B1VS3770 Gold
+0013416716 Gold
+00B00FHZ82 Gold
+00B588CD74 Gold
+2115336336 Gold
+00BN2CJ301 Gold
+2183935274 Gold (EUR Hedged)
+00B8DFY052 Gold (EUR Hedged)
+00BJ5CMD00 Goldman Sachs ActiveBeta Emerging Markets Equity
+00BJ5CNR11 Goldman Sachs ActiveBeta US Large Cap Equity
+0009690239 GPR Global 100
+00BMYMHS24 HANetf Saturna Al-Kawthar Global Focused Equity
+00BMWXKN31 Hang Seng TECH
+00BKZGB098 HSBC Multi-Factor Worldwide Equity
+0010655746 IBEX 35
+1681041114 iBoxx MSCI ESG EUR FRN Investment Grade Corporates
+1681040496 iBoxx MSCI ESG EUR High Yield Corporates
+1215415214 iBoxx MSCI ESG EUR High Yield Corporates
+1617164998 iBoxx MSCI ESG EUR High Yield Corporates 1-3
+000V6NHO66 iBoxx MSCI ESG EUR High Yield Paris Aligned Capped
+1681040900 iBoxx MSCI ESG USD FRN Investment Grade Corporates
+1681041031 iBoxx MSCI ESG USD FRN Investment Grade Corporates TCA (EUR Hedged)
+00BZ0XVF52 iBoxxÃ‚Â® Contingent Convertible Liquid Developed Europe AT1
+00BFNNN236 iBoxxÃ‚Â® Contingent Convertible Liquid Developed Europe AT1 (EUR Hedged)
+1390062245 iBoxxÃ‚Â® EUR Breakeven Euro-Inflation France & Germany
+00BSKRK281 iBoxxÃ‚Â® EUR Corporates BBB-BB
+00BYPHT736 iBoxxÃ‚Â® EUR Corporates Yield Plus
+000UX5WPU4 iBoxxÃ‚Â® EUR Corporates Yield Plus
+00B3B8Q275 iBoxxÃ‚Â® EUR Covered
+0290356871 iBoxxÃ‚Â® EUR Eurozone 1-3
+0614173549 iBoxxÃ‚Â® EUR Eurozone 1-3
+0290357507 iBoxxÃ‚Â® EUR Eurozone 15-30
+00BSKRJX20 iBoxxÃ‚Â® EUR Eurozone 20 Target Duration
+0290357846 iBoxxÃ‚Â® EUR Eurozone 25+
+0290357176 iBoxxÃ‚Â® EUR Eurozone 5-7
+2504532487 iBoxxÃ‚Â® EUR Eurozone Sovereigns Green Bonds Capped
+0468896575 iBoxxÃ‚Â® EUR Germany
+0643975161 iBoxxÃ‚Â® EUR Germany
+0468897110 iBoxxÃ‚Â® EUR Germany 1-3
+0321463506 iBoxxÃ‚Â® EUR Germany Covered
+0032523478 iBoxxÃ‚Â® EUR Liquid Corporates Large Cap
+0820950128 iBoxxÃ‚Â® EUR Liquid Covered Bond
+00B66F4759 iBoxxÃ‚Â® EUR Liquid High Yield
+00BF3N7094 iBoxxÃ‚Â® EUR Liquid High Yield
+1109942653 iBoxxÃ‚Â® EUR Liquid High Yield
+1109943388 iBoxxÃ‚Â® EUR Liquid High Yield
+1109939865 iBoxxÃ‚Â® EUR Liquid High Yield 1-3
+0010273801 iBoxxÃ‚Â® EUR Liquid Sovereigns Capped 1-5
+000A0H0785 iBoxxÃ‚Â® EUR Liquid Sovereigns Capped 1.5-10.5
+0009690254 iBoxxÃ‚Â® EUR Liquid Sovereigns Diversified 1-10
+2504537445 iBoxxÃ‚Â® EUR Sovereigns ESG Tilted
+0290355717 iBoxxÃ‚Â® EUR Sovereigns Eurozone
+0643975591 iBoxxÃ‚Â® EUR Sovereigns Eurozone
+2009147591 iBoxxÃ‚Â® EUR Sovereigns Eurozone (USD Hedged)
+0484969463 iBoxxÃ‚Â® EUR Sovereigns Eurozone AAA
+0524480265 iBoxxÃ‚Â® EUR Sovereigns Eurozone Yield Plus
+0925589839 iBoxxÃ‚Â® EUR Sovereigns Eurozone Yield Plus 1-3
+2552296563 iBoxxÃ‚Â® EUR Sovereigns Eurozone Yield Plus 1-3
+00B00FV011 iBoxxÃ‚Â® GBP Liquid Corporates Large Cap
+000H22E3N iBoxxÃ‚Â® GBP Liquid Corporates Large Cap (EUR Hedged)
+00B74DQ490 iBoxxÃ‚Â® Global Developed Markets Liquid High Yield Capped
+00BYWZ0440 iBoxxÃ‚Â® Global Developed Markets Liquid High Yield Capped
+00BJSFR200 iBoxxÃ‚Â® Global Developed Markets Liquid High Yield Capped (EUR Hedged)
+00091SR7N7 iBoxxÃ‚Â® Global Developed Markets Liquid High Yield Capped (EUR Hedged)
+2300294316 iBoxxÃ‚Â® MSCI ESG EUR Corporates 0-1
+00BJP26D89 iBoxxÃ‚Â® MSCI ESG EUR Liquid Investment Grade Ultrashort
+000NBRE3P7 iBoxxÃ‚Â® MSCI ESG EUR Liquid Investment Grade Ultrashort
+00BJP26F04 iBoxxÃ‚Â® MSCI ESG GBP Liquid Investment Grade Ultrashort
+000DOZYQJ7 iBoxxÃ‚Â® MSCI ESG USD Asia ex-Japan High Yield Capped (EUR Hedged)
+00BD4DX952 iBoxxÃ‚Â® MSCI ESG USD Emerging Markets Sovereigns Quality Weighted
+0004KLW911 ETF sui BTP Italiani: come investire in obbligazioni con gli ETF
+00BD4DXB77 iBoxxÃ‚Â® MSCI ESG USD Emerging Markets Sovereigns Quality Weighted (EUR Hedged)
+00BJP26C72 iBoxxÃ‚Â® MSCI ESG USD Liquid Investment Grade Ultrashort
+0002635265 iBoxxÃ‚Â® Pfandbriefe
+0009690247 iBoxxÃ‚Â® SD-KPI EUR Liquid Corporates
+2504532131 iBoxxÃ‚Â® TIPS Inflation-Linked
+1390062831 iBoxxÃ‚Â® USD Breakeven 10-Year Inflation
+2418815473 iBoxxÃ‚Â® USD Breakeven 10-Year Inflation (EUR Hedged)
+00BFZPF322 iBoxxÃ‚Â® USD Contingent Convertible Liquid Developed Market AT1
+00BG0TQB18 iBoxxÃ‚Â® USD Contingent Convertible Liquid Developed Market AT1
+00BFZPF439 iBoxxÃ‚Â® USD Contingent Convertible Liquid Developed Market AT1 (EUR Hedged)
+1681041205 iBoxxÃ‚Â® USD Liquid Emerging Markets Sovereigns
+1686830909 iBoxxÃ‚Â® USD Liquid Emerging Markets Sovereigns
+1686831030 iBoxxÃ‚Â® USD Liquid Emerging Markets Sovereigns (EUR Hedged)
+00BCRY6003 iBoxxÃ‚Â® USD Liquid High Yield 0-5 Capped
+00BZ17CN18 iBoxxÃ‚Â® USD Liquid High Yield 0-5 Capped
+00B4PY7Y77 iBoxxÃ‚Â® USD Liquid High Yield Capped
+00BYXYYL56 iBoxxÃ‚Â® USD Liquid High Yield Capped
+00BF3N7102 iBoxxÃ‚Â® USD Liquid High Yield Capped (EUR Hedged)
+0032895942 iBoxxÃ‚Â® USD Liquid Investment Grade
+00BYXYYJ35 iBoxxÃ‚Â® USD Liquid Investment Grade
+00BF3N6Y61 iBoxxÃ‚Â® USD Liquid Investment Grade (EUR Hedged)
+00BYXYYP94 iBoxxÃ‚Â® USD Liquid Investment Grade 0-5
+00BCRY5Y77 iBoxxÃ‚Â® USD Liquid Investment Grade 0-5
+00BCLWRB83 iBoxxÃ‚Â® USD Liquid Investment Grade Interest Rate Hedged
+00BZ173W74 iBoxxÃ‚Â® USD Liquid Investment Grade Interest Rate Hedged
+00BGCSB447 iBoxxÃ‚Â® USD Liquid Investment Grade Ultrashort
+00BCRY6227 iBoxxÃ‚Â® USD Liquid Investment Grade Ultrashort
+0429459356 iBoxxÃ‚Â® USD Treasuries
+1399300455 iBoxxÃ‚Â® USD Treasuries (EUR Hedged)
+0429458895 iBoxxÃ‚Â® USD Treasuries 1-3
+000U99N3V1 ICE 2025 Maturity US Treasury UCITS
+2069380306 ICE 3-5 Year Euro Government Carbon Reduction
+00BP46NG52 ICE BofA Emerging Markets USD Government Bond 0-5 ex-144a
+00BNG70R26 ICE BofA U.S. Taxable Municipal Securities Plus
+00BJL36X53 ICE BofAML 0-5 EM USD Government Bond (EUR Hedged)
+00BF541080 ICE BofAML Diversified High Yield US Emerging Markets Corporate Plus
+00BG0J4B71 ICE BofAML Euro High Yield Constrained
+00BG0J4957 ICE BofAML US High Yield Constrained
+000VSFIC94 ICE BofAML US High Yield Constrained (EUR Hedged)
+000YZIVX22 ICE Catholic Principles ESG Emerging Markets External Sovereign
+00BF540Z61 ICE Global Fallen Angel High Yield 10% Constrained
+00BJK3WF00 ICE US Treasury 0-1 Year
+00BYXPSP02 ICE US Treasury 1-3 Year
+00B14X4S71 ICE US Treasury 1-3 Year
+00B3VWN179 ICE US Treasury 1-3 Year
+00BDFK1573 ICE US Treasury 1-3 Year (EUR Hedged)
+00BFM6TC58 ICE US Treasury 20+ Year
+00BSKRJZ44 ICE US Treasury 20+ Year
+00BD8PGZ49 ICE US Treasury 20+ Year (EUR Hedged)
+00B3VWN393 ICE US Treasury 3-7 Year
+00BFXYHY63 ICE US Treasury 3-7 Year
+00BGPP6473 ICE US Treasury 3-7 Year (EUR Hedged)
+00B1FZS798 ICE US Treasury 7-10 Year
+00BGPP6697 ICE US Treasury 7-10 Year (EUR Hedged)
+00BK95B138 ICE US Treasury Core Bond
+00BDQYWQ65 ICE US Treasury Inflation-Linked Bond 0-5 Years
+000WIQIPT2 ICE US Treasury Inflation-Linked Bond 0-5 Years (EUR Hedged)
+00BNC1F287 iClima Global Decarbonisation Enablers
+00BGSF1X88 IDC US Treasury Short Term
+00BGR7L912 IDC US Treasury Short Term
+00BWTNM743 Indxx 5G & NextG Thematic
+00BF5DXP42 Indxx Blockchain
+00BMH5Y871 Indxx Cybersecurity
+00BMH5YL08 Indxx Global CleanTech
+00BMH5YF48 Indxx Global Cloud Computing
+00BLCHJZ35 Indxx Global Fintech Thematic
+00BLCHJT74 Indxx Global Internet of Things Thematic
+00BJQTJ848 Indxx Global NextGen Healthcare
+00BLCHJB90 Indxx Global Robotics & Artificial Intelligence Thematic
+00BLCHJH52 Indxx Renewable Energy Producers
+00BLCHJ534 Indxx U.S. Infrastructure Development
+000WYTQSF9 INQQ The India Internet & Ecommerce ESG Screened
+0006LBEDV2 Invesco EUR Corporate Bond ESG Multi-Factor
+00021E4FE3 Invesco EUR Corporate Bond ESG Multi-Factor
+000PA766T7 Invesco EUR Corporate Bond ESG Short Duration Multi-Factor
+000MUAJIF4 Invesco EUR Corporate Bond ESG Short Duration Multi-Factor
+00BJQRDN15 Invesco Quantitative Strategies ESG Global Equity Multi-Factor
+00BJQRDP39 Invesco Quantitative Strategies ESG Global Equity Multi-Factor (EUR Hedged)
+0008YN55P8 Invesco Quantitative Strategies ESG Global Equity Multi-Factor (EUR Hedged)
+000N42HDP2 Invesco Quantitative Strategies Global Equity Low Volatility Low Carbon
+000XIBT2R7 Invesco Quantitative Strategies Global Equity Low Volatility Low Carbon (EUR Hedged)
+000PPEL1I4 Investlinx Balanced Income
+0006GUEKQ7 Investlinx Capital Appreciation
+00BYTH6238 IPOX Schuster US 100
+00BFD2609 IPOXÃ‚Â® 100 Europe
+00BFD2H405 ISE Cloud Computing
+00BYPLS672 ISE Cyber Security UCITS
+0004U3TX15 iStoxx Access Metaverse
+00BYZK4669 iSTOXXÃ‚Â® FactSet Ageing Population
+00BYZK4552 iSTOXXÃ‚Â® FactSet Automation & Robotics
+00BYWZ0333 iSTOXXÃ‚Â® FactSet Automation & Robotics
+00BYZK4776 iSTOXXÃ‚Â® FactSet Breakthrough Healthcare
+00BYZK4883 iSTOXXÃ‚Â® FactSet Digitalisation
+00BMQ5Y557 iTraxx-CDX IG Global Credit Steepener
+00BLRPQL76 J.P. Morgan China Custom Liquid ESG Capped
+000F472DU7 ETF sui BTP Italiani: come investire in obbligazioni con gli ETF
+2095995895 J.P. Morgan China Government + Policy Bank 20% Capped 1-10 Year
+2194286006 J.P. Morgan EMU Government ESG Liquid Bond
+00BLRPQP15 J.P. Morgan ESG EMBI Global Diversified Short-Term Custom Maturity
+000MINO564 J.P. Morgan ESG EMBI Global Diversified Short-Term Custom Maturity (EUR Hedged)
+1481202692 J.P. Morgan ESG EMU Government Bond IG
+2533810862 J.P. Morgan ESG EMU Government Bond IG 1-3 Year
+2533810789 J.P. Morgan ESG EMU Government Bond IG 1-3 Year
+2244387457 J.P. Morgan ESG EMU Government Bond IG 3-5 Year
+2365458814 J.P. Morgan ESG Green Social & Sustainability IG EUR Bond
+2365458731 J.P. Morgan ESG Green Social & Sustainability IG EUR Bond
+00BLRPRD67 J.P. Morgan GCI ESG Investment Grade USD Custom Maturity
+1974693662 J.P. Morgan Global Government ESG Liquid Bond
+1974694553 J.P. Morgan Global Government ESG Liquid Bond (EUR Hedged)
+00BL6K6H97 J.P. Morgan India Government Fully Accessible Route (FAR) Bonds
+000QVYFUT7 J.P. Morgan India Government Fully Accessible Route (FAR) Bonds
+00BMDV7354 JP Morgan AC Asia Pacific ex Japan Research Enhanced Index Equity (ESG)
+0006MM8VN6 JP Morgan Active Global Aggregate Bond
+000PQQLZM7 JP Morgan Active Global Aggregate Bond (EUR Hedged)
+00BFM6TD65 JP Morgan CEMBI Broad Diversified Core
+00B6TLBW47 JP Morgan CEMBI Broad Diversified Core
+00BKT1CS59 JP Morgan CEMBI Broad Diversified Core (EUR Hedged)
+00BMDV7578 JP Morgan China A Research Enhanced Index Equity (ESG)
+000DS9ZCL4 JP Morgan China A Research Enhanced Index Equity (ESG)
+000O8S1EX4 JP Morgan Climate Change Solutions
+00BJRCLL96 JP Morgan Diversified Factor Global Developed (Region Aware) Equity
+00B2NPKV68 JP Morgan EMBI Global Core
+00BYXYYK40 JP Morgan EMBI Global Core
+00B9M04V95 JP Morgan EMBI Global Core (CHF Hedged)
+00BGQ0J979 JP Morgan EMBI Global Core (CHF Hedged)
+00B9M6RS56 JP Morgan EMBI Global Core (EUR Hedged)
+00BJ5JPH63 JP Morgan EMBI Global Core (EUR Hedged)
+00B5M4WH52 JP Morgan EMBI Global Diversified 10% Cap 1% Floor
+00BFZPF546 JP Morgan EMBI Global Diversified 10% Cap 1% Floor
+1720938841 JP Morgan Emerging Markets Multi-Factor Enhanced Local Currency Bond
+00BJ06C937 JP Morgan Emerging Markets Risk-Aware Bond
+00BDFC6G93 JP Morgan Emerging Markets Risk-Aware Bond
+00BDDRDY39 JP Morgan Emerging Markets Risk-Aware Bond (EUR Hedged)
+00BJK9HD13 JP Morgan EMU Government Bond
+00BYVZV757 JP Morgan EMU Government Bond 1-3
+00BLRPRF81 JP Morgan ESG CEMBI Broad Diversified Custom Maturity
+00BF553838 JP Morgan ESG EMBI Global Diversified
+00BDDRDW15 JP Morgan ESG EMBI Global Diversified
+00BKP5L730 JP Morgan ESG EMBI Global Diversified (EUR Hedged)
+1547515137 JP Morgan ESG EMBI Global Diversified (EUR Hedged)
+00BF59RW70 JP Morgan EUR Corporate Bond 1-5 Research Enhanced Index (ESG)
+00BF59RX87 JP Morgan EUR Corporate Bond Research Enhanced Index (ESG)
+00BD9MMF62 JP Morgan EUR Ultra-Short Income
+00B6TQLL84 JP Morgan Euro EMBI Global Diversified
+00BF4G7183 JP Morgan Europe Research Enhanced Index Equity (ESG)
+000WGK3YY5 JP Morgan Europe Research Enhanced Index Equity (ESG)
+00004PGEY9 JP Morgan Eurozone Research Enhanced Index Equity (ESG)
+00BDS67326 JP Morgan GBI-Emerging Markets Global Core
+00BF4G6Z54 JP Morgan Global Emerging Markets Research Enhanced Index Equity (ESG)
+00BKKCKJ46 JP Morgan Global High Yield Corporate Bond Multi-Factor
+000YK1TO74 JP Morgan Global High Yield Corporate Bond Multi-Factor (EUR Hedged)
+00BF4G6Y48 JP Morgan Global Research Enhanced Index Equity (ESG)
+000HFXP0D2 JP Morgan Global Research Enhanced Index Equity (ESG)
+0000UW95D6 JP Morgan Global Research Enhanced Index Equity (ESG) (EUR Hedged)
+000BXC49I6 JP Morgan Global Research Enhanced Index Equity SRI Paris Aligned
+000UZIKD07 JP Morgan Global Research Enhanced Index Equity SRI Paris Aligned (EUR Hedged)
+2158769930 JP Morgan Government Bond Emerging Markets Global Div 10% Cap 0.25% Floor
+1437016204 JP Morgan Government Bond Global
+1737653631 JP Morgan Government Bond Global
+1708330235 JP Morgan Government Bond Global (EUR Hedged)
+00BJK9HH50 JP Morgan Government Bond US
+00BD9MMD49 JP Morgan Government Bond US 1-3
+0005FKEK99 JP Morgan Green Social Sustainable Bond
+000FBG59J1 JP Morgan Green Social Sustainable Bond (EUR Hedged)
+00BP2NF958 JP Morgan Japan Research Enhanced Index Equity (ESG)
+000QGWZZO0 JP Morgan Japan Research Enhanced Index Equity (ESG) (EUR Hedged)
+00BF4G7076 JP Morgan US Research Enhanced Index Equity (ESG)
+000CN8T855 JP Morgan US Research Enhanced Index Equity (ESG) (EUR Hedged)
+00069JGT58 JP Morgan US Research Enhanced Index Equity SRI Paris Aligned
+0006HMLPV6 JP Morgan US Research Enhanced Index Equity SRI Paris Aligned (EUR Hedged)
+00BF59RV63 JP Morgan USD Corporate Bond Research Enhanced Index (ESG)
+0000J0F3C5 JP Morgan USD Corporate Bond Research Enhanced Index (ESG) (EUR Hedged)
+1645386480 JP Morgan USD Emerging Markets Diversified 3% capped 1-5 (EUR Hedged)
+1645385839 JP Morgan USD Emerging Markets Diversified 3% capped 1-5 Year Bond
+1974695790 JP Morgan USD Emerging Markets IG ESG Diversified Bond
+1974696418 JP Morgan USD Emerging Markets IG ESG Diversified Bond (EUR Hedged)
+00BG8BCY43 JP Morgan USD Ultra-Short Income
+00BDFC6Q91 JP Morgan USD Ultra-Short Income
+00BPRCH686 JPX-Nikkei 400
+1681038912 JPX-Nikkei 400
+1681039050 JPX-Nikkei 400
+1681039134 JPX-Nikkei 400 (EUR Hedged)
+1681039308 JPX-Nikkei 400 (GBP Hedged)
+00BF2B0K52 LibertyQ Emerging Markets Equity
+00BF2B0L69 LibertyQ European Dividend
+00BF2B0M76 LibertyQ Global Dividend
+00BF2B0N83 LibertyQ Global Equity SRI
+00BLD4ZP54 Litecoin
+000A3GN5J9 Litecoin
+1377382368 Low Carbon 100 Europe PAB
+2194448267 Low Carbon 100 Eurozone PAB
+2194449075 Low Carbon 300 World PAB
+0322250712 LPX Major MarketÃ‚Â®
+1190417599 Lyxor Smart Overnight Return
+1248511575 Lyxor Smart Overnight Return
+00BM8QRZ79 MAC Global Solar Energy
+0000H445G8 MarketGrader New China ESG
+000A3GWEU3 MarketVector Crypto Leaders VWAP Close
+000A3G3ZD0 MarketVector Digital Assets Max 10 VWAP Close
+000YYE6WK5 MarketVector Global Defense Industry
+000M7V94E1 MarketVector Global Uranium and Nuclear Energy Infrastructure
+00BYWQWR46 MarketVector Global Video Gaming and eSports ESG
+000A3GXNT4 MarketVector Smart Contract Leaders VWAP Close
+000NXF88S1 MarketVector US Listed Oil Services 10% Capped
+00BCRY6557 Markit iBoxx EUR Liquid Investment Grade Ultrashort
+000RHYOR04 Markit iBoxx EUR Liquid Investment Grade Ultrashort
+0290356954 Markit iBoxxÃ‚Â® EUR Eurozone 3-5
+0614173895 Markit iBoxxÃ‚Â® EUR Eurozone 3-5
+0290357259 Markit iBoxxÃ‚Â® EUR Eurozone 7-10
+0005933923 MDAXÃ‚Â®
+0011857234 MDAXÃ‚Â®
+000A2QP349 MDAXÃ‚Â®
+00B9MRJJ36 MDAXÃ‚Â® ESG Screened
+0014002IH8 Melanion Bitcoin Exposure
+1681037518 MIB ESG
+00BDVPNS35 Morgan Stanley RADAR ex Agriculture & Livestock Commodity
+00BDVPNV63 Morgan Stanley RADAR ex Agriculture & Livestock Commodity (EUR Hedged)
+0011683594 Morningstar Developed Markets Large Cap Dividend Leaders Screened Select
+00BQWJFQ70 Morningstar Global Multi-Asset Infrastructure
+00BL0BMZ89 Morningstar Global Wide Moat Focus
+00B8CJW150 Morningstar MLP Composite
+00B94ZB998 Morningstar MLP Composite
+1781541096 Morningstar UK
+1781540957 Morningstar US Large-Mid Cap
+000JNKVS10 Morningstar US Small Cap Target Market Exposure
+00BQQP9H09 Morningstar US Sustainable Moat Focus
+00BJK9H753 Morningstar US Target Market Exposure
+00BJK9H860 Morningstar US Target Market Exposure
+00B7WK2W23 MSCI AC Asia ex Japan
+1900068161 MSCI AC Asia ex Japan
+0322252171 MSCI AC Asia ex Japan Low Carbon SRI Leaders Capped
+1900068328 MSCI AC Asia Pacific ex Japan
+000XFORJ80 MSCI AC Asia Pacific ex Japan Climate Paris Aligned
+00B0M63730 MSCI AC Far East ex Japan
+00BBQ2W338 MSCI AC Far East ex Japan
+00BKPX3K41 MSCI AC Far East ex Japan
+2439119236 MSCI AC Far East ex Japan ESG Leaders Select 5% Issuer Capped
+00B2QWDR12 MSCI AC Far East ex Japan Small Cap
+00BYM11K57 MSCI ACWI (EUR Hedged)
+00BF1B7389 MSCI ACWI (EUR Hedged)
+00BN4Q0P93 MSCI ACWI Climate Paris Aligned
+00BYTH5370 MSCI ACWI Climate Paris Aligned
+00BKM4H197 MSCI ACWI Emerging Market Consumer Growth
+00BDQZMX67 MSCI ACWI ESG Universal 5% Issuer Capped
+000VYO9NT0 MSCI ACWI IMI Cyber Security
+2023678878 MSCI ACWI IMI Digital Economy & Metaverse ESG Filtered
+2023678282 MSCI ACWI IMI Disruptive Technology ESG Filtered
+000YDOORK7 MSCI ACWI IMI Fintech Innovation Select ESG Screened 100
+2023679090 MSCI ACWI IMI Future Mobility ESG Filtered
+000KD0BZ68 MSCI ACWI IMI Genomic Innovation Select ESG Screened 100
+0006FFX5U1 MSCI ACWI IMI Innovation Select ESG Screened 200
+2023678449 MSCI ACWI IMI Millennials ESG Filtered
+0010524777 MSCI ACWI IMI New Energy ESG Filtered
+0014002CG3 MSCI ACWI IMI New Energy ESG Filtered
+000XOQ9TK4 MSCI ACWI IMI Next Generation Internet Innovation Select ESG Screened 100
+1861132840 MSCI ACWI IMI Robotics & AI ESG Filtered
+000V0GDVU7 MSCI ACWI IMI SDG 11 Sustainable Cities and Communities Select
+000Y6ZXZ48 MSCI ACWI IMI SDG 12 Responsible Consumption and Production Select
+00036F4K40 MSCI ACWI IMI SDG 3 Good Health and Well-being Select
+0007WJ6B10 MSCI ACWI IMI SDG 6 Clean Water and Sanitation Select
+000JZYIUN0 MSCI ACWI IMI SDG 7 Affordable and Clean Energy Select
+0005E47AH7 MSCI ACWI IMI SDG 9 Industry, Innovation and Infrastructure Select
+000PSF3A70 MSCI ACWI IMI SDG Impact Select
+000I8KRLL9 MSCI ACWI IMI Semiconductors & Semiconductor Equipment ESG Screened Select Capped
+2037748345 MSCI ACWI IMI Smart Cities ESG Filtered
+0010527275 MSCI ACWI IMI Water ESG Filtered
+0014002CH1 MSCI ACWI IMI Water ESG Filtered
+00BGHQ0G80 MSCI ACWI Select ESG Screened
+000VXC51U5 MSCI ACWI Select ESG Screened (EUR Hedged)
+1900066033 MSCI ACWI Semiconductors & Semiconductor Equipment ESG Filtered
+0000ZVYDH0 MSCI ACWI SRI Filtered PAB
+00BDR55471 MSCI ACWI SRI Low Carbon Select 5% Issuer Capped
+00BDR55927 MSCI ACWI SRI Low Carbon Select 5% Issuer Capped (EUR Hedged)
+000JTPK610 MSCI ACWI SRI Select Reduced Fossil Fuel
+00013A2XD6 MSCI ACWI SRI Select Reduced Fossil Fuel
+IE00B6R52259 MSCI All Country World (ACWI)
+IE00B44Z5B48 MSCI All Country World (ACWI)
+IE00BYM11H29 MSCI All Country World (ACWI)
+LU1829220216 MSCI All Country World (ACWI)
+IE00B3YLTY66 MSCI All Country World Investable Market (ACWI IMI)
+IE00B5377D42 MSCI Australia
+IE00BD4TY451 MSCI Australia
+IE00BWT3KS11 MSCI Australia (EUR Hedged)
+IE00B0M63516 MSCI Brazil
+LU1900066207 MSCI Brazil
+LU0292109344 How to implement the Core-Satellite strategy with ETFs
+LU1437024992 How to implement the Core-Satellite strategy with ETFs
+IE00B52SF786 MSCI Canada
+LU0446734872 MSCI Canada
+LU0950672807 MSCI Canada
+IE00B51B7Z02 MSCI Canada
+LU1130155606 MSCI Canada (EUR Hedged)
+LU0476289540 MSCI Canada Select ESG Screened
+IE00BJ5JPG56 MSCI China
+LU0514695690 MSCI China
+IE00B44T3H88 MSCI China
+LU2456436083 MSCI China
+LU1841731745 MSCI China
+IE0007P4PBU1 MSCI China
+IE00BL977C92 MSCI China
+LU2572256746 MSCI China A
+FR0011720911 MSCI China A
+IE00BKFB6K94 MSCI China A
+IE00BHBFDF83 MSCI China A
+IE00BJLFK515 MSCI China A 50 Connect
+IE00BQT3WG13 MSCI China A Inclusion
+IE00BF4NQ904 MSCI China A Inclusion
+IE00099GAJC6 MSCI China A Inclusion (EUR Hedged)
+LU2469465822 MSCI China A Inclusion Select ESG Screened
+IE00BL6K0S82 MSCI China All Shares Health Care 10/40
+IE00BK80XL30 MSCI China All Shares Stock Connect Select
+LU2376679564 MSCI China All Shares Tech Select ESG Screened 100
+IE000EBPC0Z7 MSCI China Climate Paris Aligned
+IE00BKPT4N29 MSCI China ESG Leaders 10/40
+LU1953188833 MSCI China ESG Universal Low Carbon Select 5% Issuer Capped
+LU1900068914 MSCI China Select ESG Rating and Trend Leaders
+LU1900067940 MSCI China Select ESG Rating and Trend Leaders
+LU2314312849 MSCI China Select SRI S-Series 10% Capped
+LU1681043912 MSCI China Tech IMI All Share Stock Connect ESG Filtered
+LU1681044050 MSCI China Tech IMI All Share Stock Connect ESG Filtered
+IE00BM8QS095 MSCI China Technology All Shares Stock Connect Select
+IE000NFR7C63 MSCI China Technology Sub-Industries ESG Screened Select Capped
+LU0592217524 MSCI Emerging and Frontier (EFM) Africa Top 50 Capped
+IE00BTJRMP35 MSCI Emerging Markets
+IE00B0M63177 MSCI Emerging Markets
+LU1437017350 MSCI Emerging Markets
+IE00B4L5YC18 MSCI Emerging Markets
+LU0950674175 MSCI Emerging Markets
+IE00B5SSQT16 MSCI Emerging Markets
+LU1681045370 MSCI Emerging Markets
+LU2573966905 MSCI Emerging Markets
+LU0480132876 MSCI Emerging Markets
+LU2573967036 MSCI Emerging Markets
+LU1681045453 MSCI Emerging Markets
+FR0010429068 MSCI Emerging Markets
+LU0292107645 MSCI Emerging Markets
+IE00B469F816 MSCI Emerging Markets
+LU1737652583 MSCI Emerging Markets
+IE00B3DWVS88 MSCI Emerging Markets
+IE000KCS7J59 MSCI Emerging Markets
+FR0010435297 MSCI Emerging Markets
+IE00B3Z3FS74 MSCI Emerging Markets
+IE00B5L8K969 MSCI Emerging Markets Asia
+LU1681044480 MSCI Emerging Markets Asia
+IE00B466KX20 MSCI Emerging Markets Asia
+LU1681044563 MSCI Emerging Markets Asia
+LU1781541849 MSCI Emerging Markets Asia
+LU0292107991 MSCI Emerging Markets Asia Select ESG Screened
+LU2300294589 MSCI Emerging Markets Asia SRI Filtered PAB
+IE00BN4Q1675 MSCI Emerging Markets Climate Paris Aligned
+IE000FNVOB27 MSCI Emerging Markets Climate Paris Aligned
+IE000QLV3SY5 MSCI Emerging Markets Climate Paris Aligned
+IE00BYTH5263 MSCI Emerging Markets Climate Paris Aligned
+LU1900066462 MSCI Emerging Markets Eastern Europe ex Russia
+LU0292109005 MSCI Emerging Markets EMEA Low Carbon SRI Leaders
+LU2109787049 MSCI Emerging Markets ESG Broad CTB Select
+IE000PJL7R74 MSCI Emerging Markets ESG Climate Paris Aligned Benchmark Select
+IE00BHZPJ239 MSCI Emerging Markets ESG Enhanced Focus
+LU1291097779 MSCI Emerging Markets ESG Filtered Min TE
+LU2009202107 MSCI Emerging Markets ex China
+IE00BMG6Z448 MSCI Emerging Markets ex China
+LU2109787551 MSCI Emerging Markets Extended ESG Leaders 5% Issuer Capped
+IE00BFNM3P36 MSCI Emerging Markets IMI ESG Screened
+IE00BFNM3N12 MSCI Emerging Markets IMI ESG Screened
+IE00BKM4GZ66 MSCI Emerging Markets Investable Market (IMI)
+IE00BD45KH83 MSCI Emerging Markets Investable Market (IMI)
+LU1681045024 MSCI Emerging Markets Latin America
+LU1681045297 MSCI Emerging Markets Latin America
+IE00B27YCK28 MSCI Emerging Markets Latin America 10/40
+LU0292108619 MSCI Emerging Markets Latin America Low Carbon SRI Leaders
+IE00BG370F43 MSCI Emerging Markets Low Carbon SRI Leaders
+IE00B8KGV55 MSCI Emerging Markets Minimum Volatility
+LU1953188833 MSCI China ESG Universal Low Carbon Select 5% Issuer Capped
+DE000ETFL326 MSCI China ex A Shares
+LU1900068914 MSCI China Select ESG Rating and Trend Leaders
+LU1900067940 MSCI China Select ESG Rating and Trend Leaders
+LU2314312849 MSCI China Select SRI S-Series 10% Capped
+LU1681043912 MSCI China Tech IMI All Share Stock Connect ESG Filtered
+LU1681044050 MSCI China Tech IMI All Share Stock Connect ESG Filtered
+IE00BM8QS095 MSCI China Technology All Shares Stock Connect Select
+IE000NFR7C63 MSCI China Technology Sub-Industries ESG Screened Select Capped
+LU0592217524 MSCI Emerging and Frontier (EFM) Africa Top 50 Capped
+IE00BTJRMP35 MSCI Emerging Markets
+IE00B0M63177 MSCI Emerging Markets
+LU1437017350 MSCI Emerging Markets
+IE00B4L5YC18 MSCI Emerging Markets
+IE00B5SSQT16 MSCI Emerging Markets
+LU1681045370 MSCI Emerging Markets
+LU2573966905 MSCI Emerging Markets
+LU0480132876 MSCI Emerging Markets
+LU1681045453 MSCI Emerging Markets
+FR0010429068 MSCI Emerging Markets
+LU0292107645 MSCI Emerging Markets
+IE00B469F816 MSCI Emerging Markets
+LU1737652583 MSCI Emerging Markets
+IE00B3DWVS88 MSCI Emerging Markets
+IE000KCS7J59 MSCI Emerging Markets
+IE000GWA2J58 MSCI Emerging Markets
+FR0010435297 MSCI Emerging Markets
+DE000ETFL342 MSCI Emerging Markets
+LU2675291913 MSCI Emerging Markets
+IE00B5L8K969 MSCI Emerging Markets Asia
+LU1681044480 MSCI Emerging Markets Asia
+IE00B466KX20 MSCI Emerging Markets Asia
+LU1681044563 MSCI Emerging Markets Asia
+LU1781541849 MSCI Emerging Markets Asia
+LU0292107991 MSCI Emerging Markets Asia Select ESG Screened
+LU2296661775 MSCI Emerging Markets Asia Select ESG Screened
+LU2300294589 MSCI Emerging Markets Asia SRI Filtered PAB
+IE00BN4Q1675 MSCI Emerging Markets Climate Paris Aligned
+IE000FNVOB27 MSCI Emerging Markets Climate Paris Aligned
+IE000QLV3SY5 MSCI Emerging Markets Climate Paris Aligned
+IE00BYTH5263 MSCI Emerging Markets Climate Paris Aligned
+LU1900066462 MSCI Emerging Markets Eastern Europe ex Russia
+LU2090063160 MSCI Emerging Markets Eastern Europe ex Russia
+LU0292109005 MSCI Emerging Markets EMEA Low Carbon SRI Leaders
+LU2109787049 MSCI Emerging Markets ESG Broad CTB Select
+IE000PJL7R74 MSCI Emerging Markets ESG Climate Paris Aligned Benchmark Select
+IE00BHZPJ239 MSCI Emerging Markets ESG Enhanced Focus
+LU1291097779 MSCI Emerging Markets ESG Filtered Min TE
+IE00BMDBMY19 MSCI Emerging Markets ESG Universal Select Business Screens
+LU2009202107 MSCI Emerging Markets ex China
+IE00BMG6Z448 MSCI Emerging Markets ex China
+LU2050966394 MSCI Emerging Markets ex China
+LU2345046655 MSCI Emerging Markets ex China Region ESG Leaders Select 5% Issuer Capped
+LU2109787551 MSCI Emerging Markets Extended ESG Leaders 5% Issuer Capped
+IE00BFNM3P36 MSCI Emerging Markets IMI ESG Screened
+IE00BFNM3N12 MSCI Emerging Markets IMI ESG Screened
+IE00BKM4GZ66 MSCI Emerging Markets Investable Market (IMI)
+IE00BD45KH83 MSCI Emerging Markets Investable Market (IMI)
+IE00B27YCP72 MSCI Emerging Markets Islamic
+LU1681045024 MSCI Emerging Markets Latin America
+LU1681045297 MSCI Emerging Markets Latin America
+IE00B27YCK28 MSCI Emerging Markets Latin America 10/40
+LU0292108619 MSCI Emerging Markets Latin America Low Carbon SRI Leaders
+IE00BG370F43 MSCI Emerging Markets Low Carbon SRI Leaders
+IE00B8KGV557 MSCI Emerging Markets Minimum Volatility
+IE00BM67HJ62 MSCI Emerging Markets Select ESG Screened
+IE000DNSAS54 MSCI Emerging Markets Select Sustainability Screened CTB
+IE00BG0SKF03 MSCI Emerging Markets Select Value Factor Focus
+IE00B3F81G20 MSCI Emerging Markets Small Cap
+IE00B48X4842 MSCI Emerging Markets Small Cap
+IE000W080FK3 MSCI Emerging Markets Small Cap SRI ESG Universal Select
+LU1861138961 MSCI Emerging Markets SRI Filtered PAB
+LU2059756754 MSCI Emerging Markets SRI Filtered PAB
+LU1048313891 MSCI Emerging Markets SRI Low Carbon Select 5% Issuer Capped
+LU1048313974 MSCI Emerging Markets SRI Low Carbon Select 5% Issuer Capped
+IE00BYVJRP78 MSCI Emerging Markets SRI Select Reduced Fossil Fuels
+IE00BGDQ0T50 MSCI Emerging Markets SRI Select Reduced Fossil Fuels
+IE000NVVIF88 MSCI Emerging Markets Value SRI ESG Target Select
+LU1659681230 MSCI Emerging SRI S-Series PAB 5% Capped
+LU1659681313 MSCI Emerging SRI S-Series PAB 5% Capped
+IE00B53QG562 MSCI EMU
+LU0846194776 MSCI EMU
+LU0147308422 MSCI EMU
+LU1646360971 MSCI EMU
+IE00B910VR50 MSCI EMU
+LU1646361276 MSCI EMU
+IE00BWK1SP74 MSCI EMU (CHF Hedged)
+LU1215828218 MSCI EMU (CHF Hedged)
+LU1127516455 MSCI EMU (GBP Hedged)
+IE00BKBF6616 MSCI EMU (USD Hedged)
+LU1127514245 MSCI EMU (USD Hedged)
+IE00BWZN1T31 MSCI EMU (USD Hedged)
+DE000ETFL557 MSCI EMU Climate Change ESG Select
+IE00BN4Q0L55 MSCI EMU Climate Paris Aligned
+IE00BL6K8D99 MSCI EMU Climate Paris Aligned Benchmark Select
+IE000FOSCLU1 MSCI EMU Climate Paris Aligned Benchmark Select
+LU2182388582 MSCI EMU Climate Paris Aligned Filtered
+LU0908501058 MSCI EMU ESG Broad CTB Select
+IE00BHZPJ015 MSCI EMU ESG Enhanced Focus
+IE00BHZPHZ28 MSCI EMU ESG Enhanced Focus
+LU1291098827 MSCI EMU ESG Filtered Min TE
+LU1602144575 MSCI EMU ESG Leaders Select 5% Issuer Capped
+LU2059756325 MSCI EMU ESG Leaders Select 5% Issuer Capped
+IE00BFNM3B99 MSCI EMU ESG Screened
+IE00BFNM3C07 MSCI EMU ESG Screened
+IE00BNC0M913 MSCI EMU ESG Universal Low Carbon Select 5% Issuer Capped
+IE00BMDBMX02 MSCI EMU ESG Universal Select Business Screens
+FR0010717090 MSCI EMU High Dividend Yield
+IE000VCBWFL8 MSCI EMU High Dividend Yield Low Carbon SRI Screened Select
+IE00BCLWRF22 MSCI EMU Large Cap
+IE00BNC1G699 MSCI EMU Low Carbon SRI Leaders
+IE00BCLWRD08 MSCI EMU Mid Cap
+LU1215452928 MSCI EMU Prime Value
+LU1215451524 MSCI EMU Quality
+LU1215454460 MSCI EMU Select Dynamic 50% Risk Weighted
+IE00BDGN9Z19 MSCI EMU Select ESG Screened
+LU1804202403 MSCI EMU Select Factor Mix
+IE000W6L2AI3 MSCI EMU Select Sustainability Screened CTB
+IE00B3VWMM18 MSCI EMU Small Cap
+LU0671493277 MSCI EMU Small Cap
+LU1598689153 MSCI EMU Small Cap ESG Broad CTB Select
+LU2109787635 MSCI EMU SRI Filtered PAB
+LU0629460675 MSCI EMU SRI Low Carbon Select 5% Issuer Capped
+LU1953137681 MSCI EMU SRI S-Series PAB 5% Capped
+IE00BJLKK341 MSCI EMU SRI Select Reduced Fossil Fuels
+IE00BJM0B415 MSCI EMU SRI Select Reduced Fossil Fuels
+LU1598690169 MSCI EMU Value
+LU0446734369 MSCI EMU Value
+LU0950669845 MSCI EMU Value
+DE000ETFL599 MSCI EUR Corporates IG Climate Change ESG Select
+IE00B1YZSC51 MSCI Europe
+IE00B4K48X80 MSCI Europe
+LU0274209237 MSCI Europe
+LU1437015735 MSCI Europe
+DE000ETFL284 MSCI Europe
+FR0010261198 MSCI Europe
+LU1737652310 MSCI Europe
+LU0446734104 MSCI Europe
+IE00BKWQ0Q14 MSCI Europe
+IE00B5BD5K76 MSCI Europe
+LU1242369327 MSCI Europe
+IE00B60SWY32 MSCI Europe
+LU1600334798 MSCI Europe (EUR Hedged)
+LU1184092051 MSCI Europe (USD Hedged)
+FR0010688176 MSCI Europe Banks
+LU2608817958 MSCI Europe Climate Action
+DE000ETFL565 MSCI Europe Climate Change ESG Select
+IE00BP2C0316 MSCI Europe Climate Paris Aligned
+IE00BN4Q0933 MSCI Europe Climate Paris Aligned
+IE00BYTH5487 MSCI Europe Climate Paris Aligned
+IE000HH3SU50 MSCI Europe Climate Paris Aligned Benchmark Select
+IE00BL6K8C82 MSCI Europe Climate Paris Aligned Benchmark Select
+LU2130768844 MSCI Europe Climate Paris Aligned Filtered
+IE00BKWQ0N82 MSCI Europe Communication Services 20/35 Capped
+LU0292104030 MSCI Europe Communication Services ESG Screened 20-35
+IE00BMW42298 MSCI Europe Consumer Discretionary 20/35 Capped
+IE00BKWQ0C77 MSCI Europe Consumer Discretionary 20/35 Capped
+IE00BNKF6C99 MSCI Europe Consumer Discretionary ESG Screened 20-35 Select
+IE00BMW42074 MSCI Europe Consumer Staples 20/35 Capped
+IE00BKWQ0D84 MSCI Europe Consumer Staples 20/35 Capped
+LU0292105359 MSCI Europe Consumer Staples ESG Screened 20-35
+IE00BZ0PKV06 MSCI Europe Diversified Multiple-Factor
+IE00BG13YL86 MSCI Europe Diversified Multiple-Factor
+IE00BKWQ0F09 MSCI Europe Energy 20/35 Capped
+IE00BMW42637 MSCI Europe Energy 20/35 Capped
+IE00BQN1K901 MSCI Europe Enhanced Value
+LU0486851024 MSCI Europe Enhanced Value
+IE00BG13YH41 MSCI Europe Enhanced Value
+LU1681042609 MSCI Europe ESG Broad CTB Select
+LU2678230652 MSCI Europe ESG Broad CTB Select
+IE000TI21P14 MSCI Europe ESG Climate Paris Aligned Benchmark Select
+IE00BHZPJ676 MSCI Europe ESG Enhanced Focus
+IE00BHZPJ783 MSCI Europe ESG Enhanced Focus
+LU1291099718 MSCI Europe ESG Filtered Min TE
+LU1940199711 MSCI Europe ESG Leaders
+LU1940199984 MSCI Europe ESG Leaders (EUR Hedged)
+IE00BFNM3D14 MSCI Europe ESG Screened
+IE00BFNM3F38 MSCI Europe ESG Screened
+IE00BJQRDL90 MSCI Europe ESG Universal Select Business Screens
+FR0010821819 MSCI Europe ex EMU
+LU1681044308 MSCI Europe ex Switzerland ESG Leaders Select 5% Issuer Capped
+IE00B14X4N27 MSCI Europe ex UK
+IE00BYX5K108 MSCI Europe ex UK
+IE00BMDBMW94 MSCI Europe ex UK ESG Universal Select Business Screens
+IE00BMW42306 MSCI Europe Financials 20/35 Capped
+IE00BKWQ0G16 MSCI Europe Financials 20/35 Capped
+LU0292103651 MSCI Europe Financials ESG Screened 20-35
+LU1598688189 MSCI Europe Growth
+LU1681042435 MSCI Europe Growth
+FR0010688192 MSCI Europe Health Care
+IE00BKWQ0H23 MSCI Europe Health Care 20/35 Capped
+IE00BMW42181 MSCI Europe Health Care 20/35 Capped
+LU0292103222 MSCI Europe Health Care ESG Screened 20-35
+LU1681041973 MSCI Europe High Dividend Yield
+ IE00BDVPTJ63  MSCI USA Banks 20/35 Capped
+ IE00BN4Q0602  MSCI USA Climate Paris Aligned
+ IE00BP2C1S34  MSCI USA Climate Paris Aligned
+ IE00BYTH5719  MSCI USA Climate Paris Aligned
+ IE00BNC1G707  MSCI USA Communication Services 20-35 Custom
+ IE00BGQYRR35  MSCI USA Consumer Discretionary 20/35 Custom
+ IE00BGQYRQ28  MSCI USA Consumer Staples
+ IE00BZ0PKS76  MSCI USA Diversified Multiple-Factor
+ IE00BG13YZ23  How to implement the Core-Satellite strategy with ETFs
+ IE00BCHWNS19  MSCI USA Energy 20/35 Custom
+ IE00BD1F4M44  MSCI USA Enhanced Value
+ IE00BFF5RX68  MSCI USA Enhanced Value
+ IE000QQ8Z0D8  MSCI USA ESG Broad Select
+ IE000RLUE8E9  MSCI USA ESG Climate Paris Aligned Benchmark Select
+ IE00BHZPJ89 MSCI USA ESG Enhanced Focus
+ IE00BHZPJ908  iShares MSCI USA ESG Enhanced UCITS ETF USD (Acc)  Chart  6,178  0.07%    27.39%  Accumulating  Full replication  Savings plan ready
+ IE000U7L59A3  MSCI USA ESG Enhanced Focus (EUR Hedged)
+ IE00BJBYDP94  MSCI USA ESG Leaders
+ IE000PEAJOT0  MSCI USA ESG Leaders Select 5% Issuer Capped
+ LU1681042864  MSCI USA ESG Leaders Select 5% Issuer Capped
+ LU1681042948  MSCI USA ESG Leaders Select 5% Issuer Capped
+ IE00BFNM3G45  MSCI USA ESG Screened
+ IE00BFNM3H51  MSCI USA ESG Screened
+ IE000G2LIHG9  MSCI USA ESG Screened (EUR Hedged)
+ IE00BNC0M350  MSCI USA ESG Universal Low Carbon Select 5% Issuer Capped
+ IE00BJQRDM08  MSCI USA ESG Universal Select Business Screens
+ IE00BCHWNT26  MSCI USA Financials
+ IE00BCHWNW54  MSCI USA Health Care
+ IE00BKM4H312  MSCI USA High Dividend Yield ESG Reduced Carbon Target Select
+ IE00BCHWNV48  MSCI USA Industrials
+ IE00BGQYRS42  MSCI USA Information Technology 20/35 Custom
+ IE00BFMNPS42  MSCI USA Low Carbon SRI Leaders
+ IE0000MMQ5M5  MSCI USA Low Carbon SRI Leaders (EUR Hedged)
+ IE00BD1F4K20  MSCI USA Mid-Cap Equal Weighted
+ LU158934973 MSCI USA Minimum Volatility
+ IE00BDB7J586  Xtrackers MSCI USA Minimum Volatility UCITS ETF 1D  Chart  4  0.20%    16.55%  Distributing  Full replication  Savings plan ready
+ IE00BKVL7331  MSCI USA Minimum Volatility ESG Reduced Carbon Target
+ IE00BD1F4N50  MSCI USA Momentum
+ IE00BFF5RZ82  MSCI USA Momentum
+ IE0002PA3YE5  MSCI USA Momentum ESG Reduced Carbon Target Select
+ IE00BX7RR706  MSCI USA Prime Value
+ IE00BX7RRJ27  MSCI USA Quality
+ IE00BWT3KN65  MSCI USA Quality (EUR Hedged)
+ IE00BD1F4L37  MSCI USA Sector Neutral Quality
+ IE00BF2QSQ20  MSCI USA Sector Neutral Quality
+ IE00BX7RQY03  MSCI USA Select Dynamic 50% Risk Weighted
+ IE00BWT3KJ20  MSCI USA Select Dynamic 50% Risk Weighted (EUR Hedged)
+ IE000VML2GZ3  MSCI USA Select ESG Rating and Trend Leaders
+ IE0008TKP6O7  MSCI USA Select ESG Rating and Trend Leaders
+ IE00BJZ2DC62  MSCI USA Select ESG Screened
+ IE000TSML5I8  MSCI USA Select ESG Screened (EUR Hedged)
+ IE00BDGV0308  MSCI USA Select Factor Mix
+ IE00BDGV0746  MSCI USA Select Factor Mix (EUR Hedged)
+ IE000GYDNJS5  MSCI USA Select Sustainability Screened CTB
+ IE00B3VWM098  MSCI USA Small Cap ESG Enhanced Focus CTB
+ IE00BMDX0L03  CSIF (IE) MSCI USA Small Cap ESG Leaders Blue UCITS ETF B USD  Chart  435  0.20%    17.69%  Accumulating  Full replication  Savings plan ready
+ IE00BSPLC413  MSCI USA Small Cap Value Weighted
+ IE000R85HL30  MSCI USA SRI Filtered PAB
+ IE0000U24AJ9  MSCI USA SRI Filtered PAB (EUR Hedged)
+ LU0629460089  MSCI USA SRI Low Carbon Select 5% Issuer Capped
+ IE00BJXT3C94  MSCI USA SRI Low Carbon Select 5% Issuer Capped
+ LU1280303014  MSCI USA SRI Low Carbon Select 5% Issuer Capped (EUR Hedged)
+ IE00BJXT3G33  MSCI USA SRI Low Carbon Select 5% Issuer Capped (EUR Hedged)
+ LU1659681669  MSCI USA SRI S-Series PAB 5% Capped
+ LU1659681586  MSCI USA SRI S-Series PAB 5% Capped
+ IE00BYVJRR92  MSCI USA SRI Select Reduced Fossil Fuels
+ IE00BZ173T46  MSCI USA SRI Select Reduced Fossil Fuels
+ IE00BZ173V67  MSCI USA SRI Select Reduced Fossil Fuels (EUR Hedged)
+ IE000YKE1AQ5  MSCI USA Tech 125 ESG Universal
+ IE00B78JSG98  MSCI USA Value
+ IE000OKVTDF7  MSCI USA Value ESG Reduced Carbon Target Select
+ IE00BSPLC520  MSCI USA Value Weighted
+ IE0000JVOLK2  MSCI USD HY SRI Sustainable Corporate Bond
+ IE000WMJVNE9  MSCI USD IG Liquid SRI Sustainable Corporate Bond
+ IE00B4L5Y983  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE00BJ0KDQ92  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE00B4X9L533  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE00B0M62Q58  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ FR0010315770  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE00BFY0GT14  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ LU1781541179  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE00B60SX394  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ LU2572257124  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ LU0274208692  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ LU1681043599  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE00BK1PV551  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ LU0340285161  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE000BI8OT95  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE000CNSFAR2  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE000UQND7H4  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ FR0014003IY1  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ LU1681043672  iShares Core MSCI World UCITS ETF USD (Acc)  Chart  68,729  0.20%    24.58%  Accumulating  Optimized
+ IE00B441G979  MSCI World (EUR Hedged)
+ IE00BKBF6H24  MSCI World (EUR Hedged)
+ FR0011660927  MSCI World (EUR Hedged)
+ LU0659579733  MSCI World (EUR Hedged)
+000QMIHY81 MSCI World (EUR Hedged)
+000BZ1HVL2 MSCI World (EUR Hedged)
+00BP2C1V62 MSCI World Climate Paris Aligned
+00BN4Q0370 MSCI World Climate Paris Aligned
+00BYTH5594 MSCI World Climate Paris Aligned
+00BMXC7W70 MSCI World Climate Paris Aligned Benchmark Select
+00BN92ZL31 MSCI World Climate Paris Aligned Benchmark Select
+000CL68Z69 MSCI World Climate Paris Aligned Filtered
+00BYTRRG40 MSCI World Communication Services
+00BM67HR47 MSCI World Communication Services 20/35 Custom
+00BM67HP23 MSCI World Consumer Discretionary
+00BYTRR640 MSCI World Consumer Discretionary
+00BJ5JP212 MSCI World Consumer Discretionary
+00BM67HN09 MSCI World Consumer Staples
+00BJ5JP329 MSCI World Consumer Staples
+00BYTRR756 MSCI World Consumer Staples
+0006XQ3YX3 MSCI World Consumer Staples ESG Leaders
+00BZ0PKT83 MSCI World Diversified Multiple-Factor
+00BYXPXK00 MSCI World Diversified Multiple-Factor (EUR Hedged)
+00BM67HM91 MSCI World Energy
+00BJ5JP105 MSCI World Energy
+00BYTRR863 MSCI World Energy
+000MELAE65 MSCI World Energy ESG Reduced Carbon Select 20 35 Capped
+00BP3QZB59 MSCI World Enhanced Value
+00BL25JM42 MSCI World Enhanced Value
+00BFYTYS33 MSCI World Enhanced Value
+0001GSQ2O9 MSCI World ESG Broad CTB Select
+000PB4LRO2 MSCI World ESG Broad CTB Select
+000V93BNU0 MSCI World ESG Climate Paris Aligned Benchmark Select
+00BHZPJ569 MSCI World ESG Enhanced Focus
+00BG11HV38 MSCI World ESG Enhanced Focus
+00BJBYDQ02 MSCI World ESG Leaders
+00BKKFT300 MSCI World ESG Leaders (EUR Hedged)
+00BMDX0M10 MSCI World ESG Leaders Minimum Volatility
+00016PSX47 MSCI World ESG Leaders Select 5% Issuer Capped
+00BFNM3J75 MSCI World ESG Screened
+00BFNM3K80 MSCI World ESG Screened
+00BJQRDK83 MSCI World ESG Universal Select Business Screens
+0010756114 MSCI World ex EMU
+0013209921 MSCI World ex EMU SRI Filtered PAB
+1681045537 MSCI World ex Europe
+00BM67HL84 MSCI World Financials
+00BYTRR970 MSCI World Financials
+0533032859 MSCI World Financials
+000VDP6OY8 MSCI World Financials ESG Leaders
+00BJ5JP097 MSCI World Financials ESG Reduced Carbon Select 20 35 Capped
+00BM67HK77 MSCI World Health Care
+0533033238 MSCI World Health Care
+00BYTRRB94 MSCI World Health Care
+00BJ5JNZ06 MSCI World Health Care ESG Reduced Carbon Select 20 35 Capped
+00BYYHSQ67 MSCI World High Dividend Yield ESG Reduced Carbon Target Select
+00BKPSFC54 MSCI World High Dividend Yield ESG Reduced Carbon Target Select
+00BM67HV82 MSCI World Industrials
+0533033667 MSCI World Information Technology
+00BYTRRD19 MSCI World Information Technology
+00BM67HT60 MSCI World Information Technology 20/35 Custom
+000SACNHU2 MSCI World Information Technology ESG Leaders 20% Capped
+00BJ5JNY98 MSCI World Information Technology ESG Reduced Carbon Select 20 35 Capped
+00BZ02LR44 MSCI World Low Carbon SRI Leaders
+00BMY76136 MSCI World Low Carbon SRI Leaders (EUR Hedged)
+00BM67HS53 MSCI World Materials
+00BYTRRF33 MSCI World Materials
+00BJ5JP766 MSCI World Materials ESG Reduced Carbon Select 20 35 Capped
+000EE3Q489 MSCI World Metals and Mining
+00BP3QZD73 MSCI World Mid Cap Equal Weighted
+00B8FHGS14 MSCI World Minimum Volatility
+00BL25JN58 MSCI World Minimum Volatility
+00BMCZLJ20 MSCI World Minimum Volatility
+00BYXPXL17 MSCI World Minimum Volatility (EUR Hedged)
+00BKVL7778 MSCI World Minimum Volatility ESG Reduced Carbon Target
+00BMH5VP31 MSCI World Minimum Volatility ESG Reduced Carbon Target (EUR Hedged)
+0008YN0OY8 MSCI World Minimum Volatility Low Carbon SRI Screened Select
+00BP3QZ825 MSCI World Momentum
+00BL25JP72 MSCI World Momentum
+000L5NW549 MSCI World Momentum ESG Reduced Carbon Target Select
+000TL3PL69 MSCI World Momentum Low Carbon SRI Screened Select
+0003NQ0IY5 MSCI World Quality Low Carbon SRI Screened Select
+00BP3QZ601 MSCI World Sector Neutral Quality
+00BL25JL35 MSCI World Sector Neutral Quality
+2216829809 MSCI World Select Catholic Principles ESG Universal and Environment
+00BCHWNQ94 MSCI World Select ESG Screened
+000P4AYI47 MSCI World Select Sustainability Screened CTB
+000C87OS21 MSCI World Semiconductors and Semiconductor Equipment
+00BF4RFH31 MSCI World Small Cap
+00BCBJG560 MSCI World Small Cap
+000T9EOCL3 MSCI World Small Cap ESG Enhanced Focus
+000C692SN6 MSCI World Small Cap SRI ESG Leaders Select
+00BKSCBX74 MSCI World Small Cap SRI Low Carbon Select 5% Issuer Capped
+00BKSCC785 MSCI World Small Cap SRI Low Carbon Select 5% Issuer Capped (EUR Hedged)
+000Y77LGG9 MSCI World SRI Filtered PAB
+000K1P4V37 MSCI World SRI Filtered PAB (EUR Hedged)
+0629459743 MSCI World SRI Low Carbon Select 5% Issuer Capped
+0950674332 MSCI World SRI Low Carbon Select 5% Issuer Capped
+00BK72HJ67 MSCI World SRI Low Carbon Select 5% Issuer Capped
+00BK72HM96 MSCI World SRI Low Carbon Select 5% Issuer Capped (EUR Hedged)
+161509221 MSCI World SRI S-Series PAB 5% Capped
+00BYX2JD69 MSCI World SRI Select Reduced Fossil Fuels
+00BDZZTM54 MSCI World SRI Select Reduced Fossil Fuels
+00BMZ17W23 MSCI World SRI Select Reduced Fossil Fuels (EUR Hedged)
+00BMZ17T93 MSCI World SRI Select Reduced Fossil Fuels (GBP Hedged)
+00BMZ17X30 MSCI World SRI Select Reduced Fossil Fuels (USD Hedged)
+00BM67HQ30 MSCI World Utilities
+00BYTRRH56 MSCI World Utilities
+000H1H16W5 MSCI World Value ESG Reduced Carbon Target Select
+000LAUZQT6 MSCI World Value Low Carbon SRI Screened Select
+000LYBU7X5 MSCI World Value SRI ESG Target Select
+1829219556 MTS Mid Price Highest Rated Macro-Weighted 1-3 (EUR)
+1829219713 MTS Mid Price Highest Rated Macro-Weighted 3-5 (EUR)
+1287023342 MTS Mid Price Highest Rated Macro-Weighted All-Maturity (EUR)
+1598691217 MTS Mid Price Italy 10y Target Maturity (EUR)
+1598691050 MTS Mid Price Italy Government 1-3 y (EUR)
+0009272772 Multi-Asset Balanced Allocation
+0009272764 Multi-Asset Conservative Allocation
+0009272780 Multi-Asset Growth Allocation
+0005TF96I9 MVIS Global Bionic Healthcare ESG
+0001J5A2T9 MVIS Global Circular Economy ESG
+00BMDKNW35 MVIS Global Digital Assets Equity
+000B9PQW54 MVIS Global Future Healthcare ESG
+0005B8WVT6 MVIS Global Future of Food ESG
+00BMDH1538 MVIS Global Hydrogen Economy ESG
+00BQQP9G91 MVIS Global Junior Gold Miners
+0002PG6CA6 MVIS Global Rare Earth/Strategic Metals
+000YU9K6K2 MVIS Global Space Industry ESG
+00BMC38736 MVIS US Listed Semiconductor 10% Capped ESG
+00B53SZB19 Nasdaq 100Ã‚Â®
+0032077012 Nasdaq 100Ã‚Â®
+1829221024 Nasdaq 100Ã‚Â®
+00BFZXGZ54 Nasdaq 100Ã‚Â®
+1681038243 Nasdaq 100Ã‚Â®
+000QDFFK00 Nasdaq 100Ã‚Â®
+00BMFKG444 Nasdaq 100Ã‚Â®
+1681038326 Nasdaq 100Ã‚Â®
+00BYVQ9F29 Nasdaq 100Ã‚Â® (EUR Hedged)
+1681038599 Nasdaq 100Ã‚Â® (EUR Hedged)
+00BYVTMS52 Nasdaq 100Ã‚Â® (EUR Hedged)
+1954152853 Nasdaq 100Ã‚Â® (EUR Hedged)
+000COQKPO9 Nasdaq 100Ã‚Â® ESG
+00B8X9NX34 Nasdaq AlphaDEXÃ‚Â® Emerging Markets
+00B8X9NY41 Nasdaq AlphaDEXÃ‚Â® Eurozone
+00BWTNM966 Nasdaq AlphaDEXÃ‚Â® Germany
+00B8X9NW27 Nasdaq AlphaDEXÃ‚Â® Large Cap Core
+00BYXG2H39 Nasdaq Biotechnology
+00BQ70R696 Nasdaq Biotechnology
+00BDZVHG35 Nasdaq Biotechnology
+00BDBRT036 Nasdaq Clean Edge Green Energy
+00BDVPNG13 Nasdaq CTA Artificial Intelligence
+00BF16M727 Nasdaq CTA Cybersecurity
+00BGV5VN51 Nasdaq Global Artificial Intelligence and Big Data
+00BLSNMW37 Nasdaq Global Buyback Achievers
+00BGV5VR99 Nasdaq Global Future Mobility
+00BYTH6121 Nasdaq Global High Equity Income
+000YDZG487 Nasdaq Global Semiconductor
+00BMD8KP97 Nasdaq Next Generation 100
+000J80JTL1 Nasdaq OMX Clean Edge Smart Grid Infrastructure
+000IQQEL77 Nasdaq Sprott Copper Miners ESG Screened
+000K6PPGX7 Nasdaq Sprott Energy Transition Materials Ex Uranium
+00BD6GCF16 Nasdaq US High Equity Income
+0292109690 Nifty 50
+0839027447 Nikkei 225Ã‚Â®
+00B52MJD48 Nikkei 225Ã‚Â®
+1875395870 Nikkei 225Ã‚Â® (EUR Hedged)
+0005YK6564 North Shore Sprott Uranium Miners
+00BL0L0H60 NYSE Arca Biotechnology
+00BQQP9F84 NYSE Arca Gold Miners
+000RDRMSD1 NYSE FactSet Global Blockchain Technologies Capped
+00BYMLZY74 Optimised Roll Commodity
+00BF4TWC33 Optimised Roll Industrial Metals
+00BG88WG77 Optimized Roll Commodity (EUR Hedged)
+00BF92LV92 Ossiam ESG Low Carbon Shiller Barclays CAPEÃ‚Â® US Sector
+00080CTQA4 Ossiam ESG Shiller Barclays CAPEÃ‚Â® Europe Sector
+0599612842 Ossiam Europe ESG Machine Learning
+00BN0YSK89 Ossiam Food for Biodiversity
+00BJBLDK52 Ossiam US ESG Low Carbon Equity Factors
+00B1VS3002 Palladium
+00BF8HV717 PIMCO Covered Bond
+00B4P11460 PIMCO Emerging Markets Advantage Local Currency Bond
+00BH3X8336 PIMCO Emerging Markets Advantage Local Currency Bond
+00B5ZR2157 PIMCO Euro Short Maturity
+00BVZ6SP04 PIMCO Euro Short Maturity
+00BP9F2J32 PIMCO Low Duration Euro Corporate Bond
+00BP9F2H18 PIMCO Low Duration US Corporate Bond
+00B622SG73 PIMCO Sterling Short Maturity
+00B67B7N93 PIMCO US Dollar Short Maturity
+00B1VS2W53 Platinum
+0593331561 Polkadot
+00BNRRFW10 Polkadot
+000A3GSUC5 Polkadot
+1129538448 Polygon (MATIC)
+00BNRRB013 Polygon (MATIC)
+000A3GV1U5 Polygon (MATIC)
+00B1VS3W29 Precious Metals Basket
+00BD0B9B76 Refinitiv Global Large/Mid Diversity & Inclusion ex Controversial Weapons Equal Weight
+00BNH72088 Campionato Europeo di Calcio: 
+00BDT6FP91 Refinitiv Qualified Global Convertible (EUR Hedged)
+0454664043 Ripple (XRP)
+00BLD4ZN31 Ripple (XRP)
+000A3GYNB0 Ripple (XRP)
+00BK5BCD43 ROBO Global Artificial Intelligence
+00BK5BC677 ROBO Global Healthcare Technology and Innovation
+00BMW3QX54 ROBO-STOXÃ‚Â® Global Robotics and Automation
+00B3CNHJ55 Russell 2000 0.4 Quality Target Exposure Factor
+00BJ38QD84 Russell 2000Ã‚Â®
+00BJZ2DD79 Russell 2000Ã‚Â®
+1681038672 Russell 2000Ã‚Â®
+00B60SX402 Russell 2000Ã‚Â®
+1681038839 Russell 2000Ã‚Â®
+1681048127 S&P 500 Buyback
+1681048556 S&P 500 Buyback
+00BDDRF478 S&P 500 Capped 35/20 Communication Services
+00B4MCHD36 S&P 500 Capped 35/20 Consumer Discretionary
+00B40B8R38 S&P 500 Capped 35/20 Consumer Staples
+00B42NKQ00 S&P 500 Capped 35/20 Energy
+00B4JNQZ49 S&P 500 Capped 35/20 Financials
+00B43HR379 S&P 500 Capped 35/20 Health Care
+00BMBKBZ46 S&P 500 Capped 35/20 Health Care (EUR Hedged)
+00B4LN9N13 S&P 500 Capped 35/20 Industrials
+00B3WJKG14 S&P 500 Capped 35/20 Information Technology
+00B4MKCJ84 S&P 500 Capped 35/20 Materials
+00B4KBBD01 S&P 500 Capped 35/20 Utilities
+0004MFRED4 S&P 500 Equal Weight ESG
+000IDLWOL4 S&P 500 Equal Weight ESG (EUR Hedged)
+000LAP5Z18 S&P 500 Equal Weight ESG Leaders Select
+00BKS7L097 S&P 500 ESG
+00BHXMHL11 S&P 500 ESG
+00BHXMHK04 S&P 500 ESG
+0004J37T45 S&P 500 ESG
+000R9FA4A0 S&P 500 ESG
+0007ULOZS8 S&P 500 ESG
+00BHXMHQ65 S&P 500 ESG (EUR Hedged)
+000QF66PE6 S&P 500 ESG (EUR Hedged)
+000CR7DJI8 S&P 500 ESG (EUR Hedged)
+00BH4GPZ28 S&P 500 ESG Leaders
+000KXCEXR3 S&P 500 ESG+
+00058MW3M8 S&P 500 ESG+ (EUR Hedged)
+00B802KR88 S&P 500 Low Volatility
+00BKW9SX35 S&P 500 Low Volatility
+00BWTN6Y99 S&P 500 Low Volatility High Dividend
+00B6SPMN59 S&P 500 Minimum Volatility
+00BD93YH54 S&P 500 Minimum Volatility
+00BYX8XD24 S&P 500 Minimum Volatility (EUR Hedged)
+00BMDPBZ72 S&P 500 Net Zero 2050 Paris-Aligned ESG
+000O5FBC47 S&P 500 Net Zero 2050 Paris-Aligned ESG+
+00BDZCKK11 S&P 500 Quality, Value & Momentum Multi-Factor
+0832435464 S&P 500 VIX Futures Enhanced Roll
+00B5BMR087 S&P 500Ã‚Â®
+00B3XXRP09 S&P 500Ã‚Â®
+00B3YCGJ38 S&P 500Ã‚Â®
+0031442068 S&P 500Ã‚Â®
+00BFMXXD54 S&P 500Ã‚Â®
+00B6YX5C33 S&P 500Ã‚Â®
+00B5KQNG97 S&P 500Ã‚Â®
+0490618542 S&P 500Ã‚Â®
+00BMTX1Y45 S&P 500Ã‚Â®
+1681049018 S&P 500Ã‚Â®
+2009147757 S&P 500Ã‚Â®
+00BYML9W36 S&P 500Ã‚Â®
+000XZSV718 S&P 500Ã‚Â®
+0496786574 S&P 500Ã‚Â®
+1681048804 S&P 500Ã‚Â®
+0011550185 S&P 500Ã‚Â®
+00B7K93397 S&P 500Ã‚Â®
+000JZ473P7 S&P 500Ã‚Â®
+000Z9SJA06 S&P 500Ã‚Â®
+00B8KMSQ34 S&P 500Ã‚Â® (CHF Hedged)
+00B3ZW0K18 S&P 500Ã‚Â® (EUR Hedged)
+00BRKWGL70 S&P 500Ã‚Â® (EUR Hedged)
+0959211243 S&P 500Ã‚Â® (EUR Hedged)
+0013041530 S&P 500Ã‚Â® (EUR Hedged)
+1681049109 S&P 500Ã‚Â® (EUR Hedged)
+00BYYW2V44 S&P 500Ã‚Â® (EUR Hedged)
+00BM67HW99 S&P 500Ã‚Â® (EUR Hedged)
+0959211326 S&P 500Ã‚Â® (EUR Hedged)
+2196472984 S&P 500Ã‚Â® (EUR Hedged)
+00BLNMYC90 S&P 500Ã‚Â® Equal Weight
+000MLMNYS0 S&P 500Ã‚Â® Equal Weight
+00BNGJJT35 S&P 500Ã‚Â® Equal Weight
+000CXLGK86 S&P 500Ã‚Â® Equal Weight
+0002EI5AG0 S&P 500Ã‚Â® Equal Weight (EUR Hedged)
+00BLSN7P11 S&P 500Ã‚Â® ESG Elite
+00BLSN7W87 S&P 500Ã‚Â® ESG Elite (EUR Hedged)
+00BMXC7V63 S&P 500Ã‚Â® Paris-Aligned Climate Sustainability Screened
+00BD3V0B10 S&P 900 Banks 7/4 Capped
+000ZPUEP93 S&P 900 Banks 7/4 Capped
+0001QF56M0 S&P China 500
+000K9Z3SF5 S&P China A 300
+0000FCGYF9 S&P China A MidCap 500
+00B6R52143 S&P Commodity Producers Agribusiness
+00B6R52036 S&P Commodity Producers Gold
+00B6R51Z18 S&P Commodity Producers Oil & Gas Exploration & Production
+00BFWFPX50 S&P Communication Services Select Sector Daily Capped 25/20
+00BWBXM278 S&P Consumer Discretionary Select Sector
+00BWBXM385 S&P Consumer Staples Select Sector
+00BMP3HG27 S&P Developed ESG Dividend Aristocrats
+00BM9TV208 S&P Developed ESG Dividend Aristocrats (EUR Hedged)
+000EFHIFG3 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Communication Services
+000ANYHV73 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Communication Services
+000NM0ALX6 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Consumer Discretionary
+00061J0RC6 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Consumer Discretionary
+000ZIJ5B20 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Consumer Staples
+0005NYD352 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Consumer Staples
+000J0LN0R5 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Energy
+0009SJ3GE3 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Energy
+000KYX7IP4 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Financials
+000ENYES77 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Financials
+0006FM6MI8 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Health Care
+000JKS50V3 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Health Care
+000LTA2082 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Industrials
+00026BEVM6 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Industrials
+000E7EI9P0 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Information Technology
+000GEHNQU9 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Information Technology
+000FCGBU62 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Materials
+000WP7CVZ7 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Materials
+000PMX0MW6 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Utilities
+00052T92P8 S&P Developed Ex-Korea LargeMidCap Sustainability Enhanced Utilities
+00B6YX5B26 S&P Emerging Markets High Yield Dividend Aristocrats
+00B2NPL135 S&P Emerging Markets Infrastructure
+00BWBXM492 S&P Energy Select Sector
+000JQ2IJD3 S&P ESG Elite High Yield Dividend Aristocrats
+00BYTH5R14 S&P ESG High Yield Dividend Aristocrats
+0959210278 S&P Euro ESG High Yield Dividend Aristocrats
+00BYTH5T38 S&P Euro ESG High Yield Dividend Aristocrats
+00B5M1WJ87 S&P Euro High Yield Dividend Aristocrats
+00BGV5VM45 S&P Europe ex UK
+2195226068 S&P Eurozone LargeMidCap Paris-Aligned Climate
+00BWBXM500 S&P Financials Select Sector
+00B1XNHC34 S&P Global Clean Energy
+000U58J0M1 S&P Global Clean Energy
+00B9CQXS71 S&P Global Dividend Aristocrats
+00BYTH5S21 S&P Global ESG Dividend Aristocrats Quality Income
+0322253229 S&P Global Infrastructure
+1681048630 S&P Global Luxury
+1681048713 S&P Global Luxury
+00BDFBTQ78 S&P Global Mining Reduced Coal
+00B27YCF74 S&P Global Timber&Forestry
+00B1TXK627 S&P Global Water
+00BWBXM617 S&P Health Care Select Sector
+00B6YX5D40 S&P High Yield Dividend Aristocrats
+00B979GK47 S&P High Yield Dividend Aristocrats (EUR Hedged)
+00BWBXM724 S&P Industrial Select Sector
+00B1TXHL60 S&P Listed Private Equity
+000D8FCSD8 S&P Listed Private Equity
+00BWBXM831 S&P Materials Select Sector
+00B4YBJ215 S&P MidCap 400
+00B9KNR336 S&P Pan Asia Dividend Aristocrats
+0328476410 S&P Select Frontier
+00BG7PP820 S&P Select Sector Capped 20% Communications
+00B449XP68 S&P Select Sector Capped 20% Consumer Discretionary
+00B435BG20 S&P Select Sector Capped 20% Consumer Staples
+00B435CG94 S&P Select Sector Capped 20% Energy
+00B42Q4896 S&P Select Sector Capped 20% Financials
+00B3WMTH43 S&P Select Sector Capped 20% Health Care
+00B3YC1100 S&P Select Sector Capped 20% Industrials
+00B3XM3R14 S&P Select Sector Capped 20% Materials
+00BYM8JD58 S&P Select Sector Capped 20% Real Estate
+00B3VSSL01 S&P Select Sector Capped 20% Technology
+00B3VPKB53 S&P Select Sector Capped 20% Utilities
+00B2QWCY14 S&P SmallCap 600
+00BWBXM948 S&P Technology Select Sector
+00B6S2Z822 S&P UK High Yield Dividend Aristocrats
+00BWBXMB69 S&P Utilities Select Sector
+0496786905 S&P/ASX 200
+0328474803 S&P/ASX 200
+0879397742 SBIÃ‚Â® ESG Foreign AAA-BBB 1-5
+0879399441 SBIÃ‚Â® ESG Foreign AAA-BBB 5-10
+1602145119 Scientific Beta Developed Multi Beta Multi-Strategy Equal-Weight
+0568452707 SEBA Crypto Asset Select
+0832436512 SG Global Quality Income
+0007WMHDE3 SGI European Green Deal ESG Screened
+1287022708 SGI Pan Africa
+1079842321 Shiller Barclays CAPEÃ‚Â® Europe Sector Value
+2555926455 Shiller Barclays CAPEÃ‚Â® Global Sector
+1079841273 Shiller Barclays CAPEÃ‚Â® US Sector Value
+00B1VS3333 Silver
+00B4NCWG09 Silver
+0005933964 SLIÃ‚Â®
+0322248146 SLIÃ‚Â®
+000GSIFIB0 Solactive 1-3 month US T-Bill
+000EBFYWX3 Solactive AgTech and Food Innovation
+00BNTVVR89 Solactive AuAg ESG Gold Mining
+00BMH5YR69 Solactive Autonomous & Electric Vehicles
+00BF0M2Z96 Solactive Battery Value-Chain
+000XAGSCY5 Solactive Blockchain
+0007HKA9K1 Solactive BrandFinance Global Brands
+00BNG8LN89 Solactive California Carbon Rolling Futures
+1603790731 Solactive Candriam Factors Sustainable Corporate Euro Bond
+1603797074 Solactive Candriam Factors Sustainable EMU Equity
+1603795458 Solactive Candriam Factors Sustainable Europe Equity
+1603797587 Solactive Candriam Factors Sustainable Japan Equity
+1603795292 Solactive Candriam Factors Sustainable Sovereign Euro Bond
+00BP2PWW32 Solactive Carbon Emission Allowances Rolling Futures
+0004LIBFM2 Solactive China Biotech
+000TMA7T63 Solactive China Clean Energy
+000HU1UG00 Solactive China Cloud Computing
+00094FRAA6 Solactive China Electric Vehicle and Battery
+2265794276 Solactive China Technology
+2265794946 Solactive China Technology (EUR Hedged)
+00BK5BCH80 Solactive Clean Energy
+00BK5BC891 Solactive Clean Water
+00BFXR5V83 Solactive Core Developed Markets Europe ex UK Large & Mid Cap
+00BFXR5S54 Solactive Core Developed Markets Large & Mid Cap
+00BFXR5W90 Solactive Core Developed Markets Pacific ex Japan Large & Mid Cap
+00BFXR5T61 Solactive Core Japan Large & Mid Cap
+00BFXR5Q31 Solactive Core United States Large & Mid Cap
+00BMH5Y327 Solactive Data Center REITs & Digital Infrastructure
+00BF92J153 Solactive Digital Payments
+000FP52WM7 Solactive Disruptive Materials
+00BMH5XY61 Solactive E-commerce
+00BF0M6N54 Solactive eCommerce Logistics
+000ST40PX8 Solactive Emerging Cyber Security
+000QNJAOX1 Solactive EPIC Optical Technology & Photonics
+00BDR5GT91 Solactive Equileap Global Gender Equality
+1691909508 Solactive Equileap Global Gender Equality
+00BDR5H073 Solactive Equileap Global Gender Equality 100 (EUR Hedged)
+000KDY10O3 Solactive ETC Group Global Metaverse
+2370241684 Solactive EUR USD IG Corporate Green Bond
+2356220926 Solactive Euro Government Green Bond
+0010510800 Solactive Euro Overnight Return
+0010731816 Solactive European Equity
+1931975152 Solactive Eurozone Government Bond
+2089238898 Solactive Eurozone Government Bond
+2233156582 Solactive Eurozone Government Bond 0-1 Year
+1233598447 Solactive Fed Funds Effective Rate
+0321465469 Solactive FEDL Daily
+1931974262 Solactive GBS Developed Markets Europe Large & Mid Cap
+2089238039 Solactive GBS Developed Markets Europe Large & Mid Cap
+2089238112 Solactive GBS Developed Markets Eurozone Large & Mid Cap
+1931974429 Solactive GBS Developed Markets Eurozone Large & Mid Cap
+1931974692 Solactive GBS Developed Markets Large & Mid Cap
+2089238203 Solactive GBS Developed Markets Large & Mid Cap
+2300295123 Solactive GBS Emerging Markets Large & Mid Cap
+1931974775 Solactive GBS Japan Large & Mid Cap
+2089238385 Solactive GBS Japan Large & Mid Cap
+00BM8R0N95 Solactive Genomics
+0001UQQ933 Solactive Gerd Kommer Multifactor Equity
+000FPWSL69 Solactive Gerd Kommer Multifactor Equity
+000BWKUES1 Solactive Global Clean Water Industry
+0003Z9E2Y3 Solactive Global Copper Miners
+1931975236 Solactive Global Developed Government Bond
+2089238971 Solactive Global Developed Government Bond
+0002RPS3K2 Solactive Global Hydrogen
+1589350310 Solactive Global Infrastructure Low Earnings Volatility
+00BLCHJN13 Solactive Global Lithium
+000IM4K4K2 Solactive Global Metaverse Innovation
+1852211991 Solactive Global Multilateral Development Bank Bond USD 25% Issuer Capped (EUR Hedged)
+000UL6CLP7 Solactive Global Silver Miners
+00077FRP95 Solactive Global SuperDividend
+000NDWFGA5 Solactive Global Uranium & Nuclear Components
+1563454310 Solactive Green Bond
+1563454401 Solactive Green Bond
+1563454823 Solactive Green Bond (EUR Hedged)
+00BMYDM794 Solactive Hydrogen Economy
+00BDDRF700 Solactive Innovative Technologies
+0001JH5CB4 Solactive ISS ESG Developed Markets Europe Net Zero Pathway
+000Y6L6LE6 Solactive ISS ESG Developed Markets Eurozone Net Zero Pathway
+000UZCJS58 Solactive ISS ESG Developed Markets Net Zero Pathway
+000HPBRE54 Solactive ISS ESG Developed Markets Paris-Aligned Benchmark
+000TZT8TI0 Solactive ISS ESG Emerging Markets Net Zero Pathway
+00074JLU02 Solactive ISS ESG Japan Net Zero Pathway
+000HT7E0B1 Solactive ISS ESG Nordic Investable Universe Net Zero Pathway
+0002ZM3JI1 Solactive ISS ESG United States Net Zero Pathway
+00BN4GXL63 Solactive ISS Paris Aligned Select Euro Corporate IG
+00BMDWYZ92 Solactive JP Morgan Asset Management Carbon Transition Global Equity
+000W95TAE6 Solactive JP Morgan Asset Management Carbon Transition Global Equity (EUR Hedged)
+000G3A6RN7 Solactive JP Morgan Asset Management China Carbon Transition
+000VTOHNZ0 Solactive L&G Global Thematic
+000IF0HTJ9 Solactive Paris Aware Global Government
+000G4ONBO6 Solactive Paris Aware Global Government (EUR Hedged)
+00BF0H7608 Solactive Pharma Breakthrough Value
+2037749822 Solactive Smart Factory
+000XD7KCJ7 Solactive Solar
+0321464652 Solactive SONIA Daily
+0994505336 Solactive Spain 40
+0592216393 Solactive Spain 40
+000ZOKLHY7 Solactive Sustainable Food
+0003WEWAX4 Solactive Sustainable Health and Wellness
+0010408704 Solactive Sustainable World Equity
+0274221281 Solactive Swiss Large Cap
+00BLR6QB00 Solactive Telemedicine & Digital Health
+00BMFNW783 Solactive Travel
+00BN4PXC48 Solactive UBS Climate Aware Global Developed Equity CTB
+1852211215 Solactive UBS Global Multilateral Development Bank Bond USD 25% Issuer Capped
+2089239193 Solactive US Treasury Bond
+1931975319 Solactive US Treasury Bond
+2037749152 Solactive USD Investment Grade Corporate
+00BLR6Q544 Solactive Video Games & Esports
+000JNHCBM6 Solactive Wind Energy
+0290358497 Solactive Ã¢â€šÂ¬STR +8.5 Daily
+0335044896 Solactive Ã¢â€šÂ¬STR +8.5 Daily
+1114873776 Solana
+00BNRRFY34 Solana
+000A3GSUD3 Solana
+000A3GVKZ1 Solana
+00BKPJY541 SSE Science and Technology Innovation Board 50
+1109575535 Stellar
+000RN58M26 STOXX Global Metaverse
+0008470928 STOXXÃ‚Â® Europe 50
+0908500753 STOXXÃ‚Â® Europe 600
+0002635307 STOXXÃ‚Â® Europe 600
+0328475792 STOXXÃ‚Â® Europe 600
+0011550193 STOXXÃ‚Â® Europe 600
+000A2QP4B6 STOXXÃ‚Â® Europe 600
+00B60SWW18 STOXXÃ‚Â® Europe 600
+2581375156 STOXXÃ‚Â® Europe 600
+1772333404 STOXXÃ‚Â® Europe 600 (EUR Hedged)
+000A0Q4R28 STOXXÃ‚Â® Europe 600 Automobiles & Parts
+1834983394 STOXXÃ‚Â® Europe 600 Automobiles & Parts
+000A2QP4A8 STOXXÃ‚Â® Europe 600 Automobiles & Parts
+000A0F5UJ7 STOXXÃ‚Â® Europe 600 Banks
+1834983477 STOXXÃ‚Â® Europe 600 Banks
+2082996112 STOXXÃ‚Â® Europe 600 Banks
+000A0F5UK5 STOXXÃ‚Â® Europe 600 Basic Resources
+1834983550 STOXXÃ‚Â® Europe 600 Basic Resources
+2082996385 STOXXÃ‚Â® Europe 600 Basic Resources
+000A0H08E0 STOXXÃ‚Â® Europe 600 Chemicals
+1834983634 STOXXÃ‚Â® Europe 600 Chemicals
+000A0H08F7 STOXXÃ‚Â® Europe 600 Construction & Materials
+1834983808 STOXXÃ‚Â® Europe 600 Construction & Materials
+1834988278 STOXXÃ‚Â® Europe 600 Energy ESG+
+2082998167 STOXXÃ‚Â® Europe 600 Energy ESG+
+0599613147 STOXXÃ‚Â® Europe 600 ESG Broad Market Equal Weight
+1681040223 STOXXÃ‚Â® Europe 600 ESG+
+000A0H08G5 STOXXÃ‚Â® Europe 600 Financial Services
+1834984798 STOXXÃ‚Â® Europe 600 Financial Services
+000A0H08H3 STOXXÃ‚Â® Europe 600 Food & Beverage
+1834985845 STOXXÃ‚Â® Europe 600 Food & Beverage
+1834986900 STOXXÃ‚Â® Europe 600 Health Care
+000A0Q4R36 STOXXÃ‚Â® Europe 600 Health Care
+2082997516 STOXXÃ‚Â® Europe 600 Health Care
+000A0H08J9 STOXXÃ‚Â® Europe 600 Industrial Goods & Services
+1834987890 STOXXÃ‚Â® Europe 600 Industrial Goods & Services
+000A0H08K7 STOXXÃ‚Â® Europe 600 Insurance
+1834987973 STOXXÃ‚Â® Europe 600 Insurance
+2082997946 STOXXÃ‚Â® Europe 600 Insurance
+000A0H08L5 STOXXÃ‚Â® Europe 600 Media
+000A0H08M3 STOXXÃ‚Â® Europe 600 Oil & Gas
+00B5NLX835 STOXXÃ‚Â® Europe 600 Optimised Automobiles & Parts
+00B5MTWD60 STOXXÃ‚Â® Europe 600 Optimised Banks
+00B5MTWY73 STOXXÃ‚Â® Europe 600 Optimised Basic Resources
+00B5MTY077 STOXXÃ‚Â® Europe 600 Optimised Chemicals
+00B5MTY309 STOXXÃ‚Â® Europe 600 Optimised Construction & Materials
+00B5MTYK77 STOXXÃ‚Â® Europe 600 Optimised Financial Services
+00B5MTYL84 STOXXÃ‚Â® Europe 600 Optimised Food & Beverage
+00B5MJYY16 STOXXÃ‚Â® Europe 600 Optimised Health Care
+00B5MJYX09 STOXXÃ‚Â® Europe 600 Optimised Industrial Goods & Services
+00B5MTXJ97 STOXXÃ‚Â® Europe 600 Optimised Insurance
+00B5MTZ488 STOXXÃ‚Â® Europe 600 Optimised Media
+00B5MTWH09 STOXXÃ‚Â® Europe 600 Optimised Oil & Gas
+00B5MTZ595 STOXXÃ‚Â® Europe 600 Optimised Personal & Household Goods
+00B5MTZM66 STOXXÃ‚Â® Europe 600 Optimised Retail
+00B5MTWZ80 STOXXÃ‚Â® Europe 600 Optimised Technology
+00B5MJYB88 STOXXÃ‚Â® Europe 600 Optimised Telecommunications
+00B5MJYC95 STOXXÃ‚Â® Europe 600 Optimised Travel & Leisure
+00B5MTXK03 STOXXÃ‚Â® Europe 600 Optimised Utilities
+00BMDPBY65 STOXXÃ‚Â® Europe 600 Paris-Aligned
+000A0H08N1 STOXXÃ‚Â® Europe 600 Personal & Household Goods
+1834988351 STOXXÃ‚Â® Europe 600 Personal & Household Goods
+000A0Q4R44 STOXXÃ‚Â® Europe 600 Real Estate
+000A0H08P6 STOXXÃ‚Â® Europe 600 Retail
+00BK5H8015 STOXXÃ‚Â® Europe 600 SRI
+000A0H08Q4 STOXXÃ‚Â® Europe 600 Technology
+1834988518 STOXXÃ‚Â® Europe 600 Technology
+2082998837 STOXXÃ‚Â® Europe 600 Technology
+000A0H08R2 STOXXÃ‚Â® Europe 600 Telecommunications
+1834988609 STOXXÃ‚Â® Europe 600 Telecommunications
+2082999058 STOXXÃ‚Â® Europe 600 Telecommunications
+000A0H08S0 STOXXÃ‚Â® Europe 600 Travel & Leisure
+1834988781 STOXXÃ‚Â® Europe 600 Travel & Leisure
+000A0Q4R02 STOXXÃ‚Â® Europe 600 Utilities
+1834988864 STOXXÃ‚Â® Europe 600 Utilities
+2082999215 STOXXÃ‚Â® Europe 600 Utilities
+0005933980 STOXXÃ‚Â® Europe Large 200
+0005933998 STOXXÃ‚Â® Europe Mid 200
+0002635299 STOXXÃ‚Â® Europe Select Dividend 30
+1812092168 STOXXÃ‚Â® Europe Select Dividend 30
+000A0D8QZ7 STOXXÃ‚Â® Europe Small 200
+00023EZQ82 STOXXÃ‚Â® Global Digital Entertainment and Education
+00BG0J4C88 STOXXÃ‚Â® Global Digital Security
+00BG0J4841 STOXXÃ‚Â® Global Digital Security
+00BGL86Z12 STOXXÃ‚Â® Global Electric Vehicles & Driving Technology
+000A0F5UH1 STOXXÃ‚Â® Global Select Dividend 100
+0292096186 STOXXÃ‚Â® Global Select Dividend 100
+00BKTLJC87 STOXXÃ‚Â® Global Smart City Infrastructure
+00BKTLJB70 STOXXÃ‚Â® Global Smart City Infrastructure
+0005933972 TecDAXÃ‚Â®
+000A2QP323 TecDAXÃ‚Â®
+00BL643144 Tematica BITA Digital Infrastructure
+00BMWB4803 Tezos
+0491507486 Tezos
+0010245514 TOPIXÃ‚Â®
+1681037609 TOPIXÃ‚Â®
+1681037864 TOPIXÃ‚Â® (EUR Hedged)
+0011475078 TOPIXÃ‚Â® (EUR Hedged)
+000LG4J7E7 Tortoise Recycling Decarbonization UCITS
+000A3GSUE1 TRON
+00BYYLVJ24 UBS BCOM Constant Maturity (EUR Hedged)
+00B53H0131 UBS CMCI
+00B58HMN42 UBS CMCI (EUR Hedged)
+00BZ2GV965 UBS CMCI Ex Agriculture Ex Livestock Capped
+00BYT5CV85 UBS CMCI Ex Agriculture Ex Livestock Capped (EUR Hedged)
+000WJCYGB4 UBS CMCI Sustainability Transition
+1135202096 Uniswap
+00BNRRG624 Uniswap
+00BHNGHX58 US ESG Minimum Variance
+00BKVKW020 Value LineÃ‚Â® Dividend
+000FN81QD2 VanEck Vectors Smart Home Active
+00BMVB5K07 Vanguard LifeStrategy 20% Equity
+00BMVB5L14 Vanguard LifeStrategy 20% Equity
+00BMVB5M21 Vanguard LifeStrategy 40% Equity
+00BMVB5N38 Vanguard LifeStrategy 40% Equity
+00BMVB5P51 Vanguard LifeStrategy 60% Equity
+00BMVB5Q68 Vanguard LifeStrategy 60% Equity
+00BMVB5R75 Vanguard LifeStrategy 80% Equity
+00BMVB5S82 Vanguard LifeStrategy 80% Equity
+1135202179 Vinter 21Shares Crypto Basket 10
+1135202161 Vinter 21Shares Crypto Basket Equal Weight
+1146882308 Vinter Bytetree BOLD1 Inverse Volatility
+00BG21M733 Wells Fargo Diversified Hybrid and Preferred Securities Floating and Variable Rate
+00053WDH64 WilderHill Hydrogen Economy
+00BLRB0242 WilderHill New Energy Global Innovation
+0008RX29L5 WilderHill Wind Energy
+2425842106 WisdomTree Battery Metals Commodity
+00BKLF1R75 WisdomTree Battery Solutions
+000TB3YTV4 WisdomTree Berylls LeanVal Global Automotive Innovators
+000O8KMPM1 WisdomTree BioRevolution ESG Screened
+000940RNE6 WisdomTree Blockchain UCITS
+00BQQ3Q067 WisdomTree Emerging Markets Equity Income
+00BDF12W49 WisdomTree Emerging Markets Equity Income
+00BM9TSP27 WisdomTree Emerging Markets ex-State-Owned Enterprises ESG Screened
+00BQZJBM26 WisdomTree Emerging Markets SmallCap Dividend
+2425848053 WisdomTree Energy Transition Metals Commodity
+00BYQCZX56 WisdomTree Europe Equity
+00BVXBH163 WisdomTree Europe Equity (USD Hedged)
+00BQZJBX31 WisdomTree Europe Equity Income
+00BDF16007 WisdomTree Europe Equity Income
+00BDF16114 WisdomTree Europe SmallCap Dividend
+00BQZJC527 WisdomTree Europe SmallCap Dividend
+00BZ56TQ67 WisdomTree Eurozone Quality Dividend Growth
+00BZ56SW52 WisdomTree Global Developed Quality Dividend Growth
+00BZ56RN96 WisdomTree Global Developed Quality Dividend Growth
+0007M3MLF3 WisdomTree Global Developed Quality Dividend Growth (EUR Hedged)
+0000902GT6 WisdomTree Global Megatrends Equity
+00BYQCZN58 WisdomTree Japan Equity
+00BYQCZJ13 WisdomTree Japan Equity (EUR Hedged)
+00BVXC4854 WisdomTree Japan Equity (USD Hedged)
+000P3D0W60 WisdomTree Renewable Energy
+00BLPK3577 WisdomTree Team8 Cybersecurity UCITS
+000KF370H3 WisdomTree US Efficient Core UCITS
+00BD6RZT93 WisdomTree US Equity Income
+00BQZJBQ63 WisdomTree US Equity Income
+00BD6RZW23 WisdomTree US Equity Income (EUR Hedged)
+00BZ56RG20 WisdomTree US Quality Dividend Growth
+000CXVOXQ1 WisdomTree US Quality Dividend Growth (EUR Hedged)
+0397221945 Xtrackers Portfolio
+00B3Y8D011 Xtrackers Portfolio Income
+0496484640 21Shares Bitcoin Suisse
+0445689208 21Shares Crypto Basket
