@@ -2,7 +2,6 @@
 import pandas as pd
 import yfinance as yf
 from matplotlib import pyplot as plt
-from urllib.request import urlopen
 from datetime import datetime
 import numpy as np
 from twelvedata import TDClient
@@ -35,60 +34,6 @@ def MDD(portfolio_prices):
             mdd=ma-x
             mdd_ma=ma
     return (mdd/mdd_ma)*100
-
-def createURL(url, name):
-    ''' 
-    Given a url and name of an index it creates the correspondant url
-    Parameters: url, name (Strings)
-    Returns: url (String)
-    '''
-
-    for word in name.split():
-        if '®' in word:
-            word=word[0:-1]
-
-        # & letter cannot be part of a link, %26 to substitute
-        if word == "S&P":
-            word = "S%26P"
-
-        url += word + "%20"
-    return url[:-3] + ".csv"
-
-def get_index_prices(name, ticker):
-    '''
-    Given an index name and the ticker of an ETF that tracks it, the function
-    looks for the index data and returns it in a Dataframe format
-    Parameters:
-    - name: String
-    - ticker: String
-    Returns:
-    - return_data: pandas Dataframe
-    '''
-
-    url_list = ["countries/", "curvo/", "countries_small_cap/", "indexes_gross/", "regions_small_cap/"]
-    url_base = "https://raw.githubusercontent.com/NandayDev/MSCI-Historical-Data/main/"
-
-    # trying different paths to the find index data
-    response = None
-    for url_end in url_list:
-        url = createURL(url_base + url_end, name)
-        try:
-            response = urlopen(url)
-        except:
-            continue
-        break
-
-    # if no index found return None
-    if response == None:
-        return None
-
-    # converting the response data to a pandas Dataframe
-    return_data = pd.read_csv(response, sep=",", names=["Date", ticker], skiprows=1)
-
-    # yahoo finance date format is "2024-04-01", whereas the index data we have has a "2024-04" format
-    return_data["Date"] += "-01"
-
-    return return_data
 
 def get_first_date_year(all_date):
     '''
@@ -147,43 +92,31 @@ class Portfolio:
     
     def load_df(self):
         '''
-        Given the portfolio_tickers and index_names lists the function gets the correspondant index name of each ETF.
-        Then, it joins the older index data to the newer ETF data month by month (in % change), so that we have more historical data
-        for ETFs. It returns the portfolio_prices dataframe with the older index data added to it.
+        This function merges the data from all assets to create a single portfolio dataframe
 
         Parameters:
-        - portfolio_tickers [List of Strings]
-        - index_names [List of Strings]
+        - self
 
         Returns:
-        - portfolio_prices [Dataframe], dataframe with % change of each portfolio component month by month
+        - portfolio_df [Dataframe], dataframe with % change of each portfolio component month by month
         '''
-        portfolio_tickers = self.tickers
-        index_names = self.index_names
+        max_len = 0
+        max_asset = None
+        portfolio_df = pd.DataFrame()
 
-        portfolio_tickers.append("IBM")
-        portfolio_prices = yf.download(portfolio_tickers, interval='1mo')['Open']
-        portfolio_prices = portfolio_prices.pct_change()
-        self.tickers.remove("IBM")
+        # get asset with longest history and set portfolio_df index equal to it
+        for asset in self.assets:
+            if len(asset.df) > max_len:
+                max_len = len(asset.df)
+                max_asset = asset
 
-        # if it shows error inside this loop it's probably because an index name could not be found on nanday
-        # indexes list, improve search algorithm to find correct index name
-        for i in (i for i in range(0,len(index_names)) if index_names[i] != ""): 
-            ticker = portfolio_tickers[i]
-            return_data = get_index_prices(index_names[i], ticker)
-            return_data[ticker] = return_data[ticker].pct_change()
+        portfolio_df.index = max_asset.df.index
 
-            for i in range(0,len(return_data)):
-                return_data.loc[i,"Date"] = datetime.strptime(return_data.loc[i,"Date"], '%Y-%m-%d')
-
-            return_data.set_index("Date", inplace = True)
-            portfolio_prices[ticker].fillna(return_data[ticker], inplace = True)
+        for asset in self.assets:
+            portfolio_df[asset.ticker] = asset.df
         
-        portfolio_prices.drop("IBM", axis=1, inplace = True)
-        portfolio_prices.dropna(axis = 0, how = 'all', inplace = True)
-
-
-        return portfolio_prices
+        return portfolio_df
+    
     
     def annual_portfolio_return(self):
         '''

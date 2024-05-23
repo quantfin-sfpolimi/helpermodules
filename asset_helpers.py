@@ -1,12 +1,70 @@
 # Libraries used
+from datetime import datetime
 from twelvedata import TDClient
+import pandas as pd
+from urllib.request import urlopen
 from dotenv import load_dotenv 
 import os
+import yfinance as yf
 import requests
 
 load_dotenv()
 API_KEY = os.getenv('API_KEY')
 td = TDClient(apikey=API_KEY)
+
+def get_index_prices(name, ticker):
+    '''
+    Given an index name and the ticker of an ETF that tracks it, the function
+    looks for the index data and returns it in a Dataframe format
+    Parameters:
+    - name: String
+    - ticker: String
+    Returns:
+    - return_data: pandas Dataframe
+    '''
+
+    url_list = ["countries/", "curvo/", "countries_small_cap/", "indexes_gross/", "regions_small_cap/"]
+    url_base = "https://raw.githubusercontent.com/NandayDev/MSCI-Historical-Data/main/"
+
+    # trying different paths to the find index data
+    response = None
+    for url_end in url_list:
+        url = createURL(url_base + url_end, name)
+        try:
+            response = urlopen(url)
+        except:
+            continue
+        break
+
+    # if no index found return None
+    if response == None:
+        return None
+
+    # converting the response data to a pandas Dataframe
+    return_data = pd.read_csv(response, sep=",", names=["Date", ticker], skiprows=1)
+
+    # yahoo finance date format is "2024-04-01", whereas the index data we have has a "2024-04" format
+    return_data["Date"] += "-01"
+
+    return return_data
+
+def createURL(url, name):
+    ''' 
+    Given a url and name of an index it creates the correspondant url
+    Parameters: url, name (Strings)
+    Returns: url (String)
+    '''
+
+    for word in name.split():
+        if '®' in word:
+            word=word[0:-1]
+
+        # & letter cannot be part of a link, %26 to substitute
+        if word == "S&P":
+            word = "S%26P"
+
+        url += word + "%20"
+    return url[:-3] + ".csv"
 
 class Asset:
     '''
@@ -34,11 +92,11 @@ class Asset:
         self.ter = None
 
     def apply_ter(self, ter):
-        montly_ter_pct = (ter/12)/100
+        monthly_ter_pct = (ter/12)/100
 
         columns = self.df[self.ticker]
         
-        new_df = columns.apply(lambda x: x - montly_ter_pct)
+        new_df = columns.apply(lambda x: x - monthly_ter_pct)
 
         self.df[self.ticker] = new_df
 
@@ -96,22 +154,35 @@ class Asset:
         self.ter = ter
     
     def load_df(self):
-        # twelve data tickers don't include the name of the exchange (eg: VUAA.MI would simply be VUAA)
-        if "." in self.ticker:
-            ticker = self.ticker[0:self.ticker.rfind(".")]
-        else:
-            ticker = self.ticker
+        '''
+        The load_df function downloads monthly open prices for self.ticker, calculates monthly percentage returns, retrieves
+        and processes index prices and fills Nan values with the index data.
 
-        df = td.time_series(
-            symbol=ticker,
-            interval="1month",
-            #start_date="2019-01-01",
-            #end_date="2020-02-02",
-            timezone="America/New_York"
-        )
+        Parameters:
+            self: Instance of the class
+        Output:
+            Sets self.df to a DataFrame of monthly returns for the specified ticker
+        ''' 
 
-        # Returns pandas.DataFrame
-        self.df = df.as_pandas()
+        ticker = self.ticker
+        index_name = self.index_name
+
+        portfolio_prices = yf.download([ticker, 'IBM'], interval='1mo')['Open']
+        portfolio_prices = portfolio_prices.pct_change()
+
+        return_data = get_index_prices(index_name, ticker)
+        return_data[ticker] = return_data[ticker].pct_change()
+
+        for i in range(0,len(return_data)):
+            return_data.loc[i,"Date"] = datetime.strptime(return_data.loc[i,"Date"], '%Y-%m-%d')
+
+        return_data.set_index("Date", inplace = True)
+        portfolio_prices[ticker].fillna(return_data[ticker], inplace = True)
+        
+        portfolio_prices.drop("IBM", axis=1, inplace = True)
+        portfolio_prices.dropna(axis = 0, how = 'all', inplace = True)
+
+        self.df = portfolio_prices
 
     def load(self):
         if self.type == 'ETF':
@@ -143,30 +214,4 @@ class Asset:
         ticker = req.split('<span class="d-inline-block" id="etf-second-id">')[0].split('</span>')[0]
             
         return ticker
-
-
-def extract_index():
-    with open('./all_etfs.txt', 'r') as file:
-         # [isins], [index names]
-        data = [[], []]
-        index = 0
-        
-        for line in file:
-            if (line[0] != ' ') & (line[0:6] != 'ottimi') & (line[0:3] != 'da ') & (line[0:4] != 'from') & (line != '\n') & (len(line)!=1):
-                current_index = line
-
-            elif ((line[0:4] == 'from') | (line[0:3] == 'da ')) & (line != '\n') & (len(line)!=1):
-                data[0].append(line[14:-2])
-                data[1].append(current_index[0:-1])
-
-            index += 1
-            
-    '''
-    Test me using the following code:
-
-    for i in range(0,len(data[0])):
-        print(data[0][i], data[1][i])
-    '''
-    return data
-
 
