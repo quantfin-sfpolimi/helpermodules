@@ -117,6 +117,7 @@ class Portfolio:
         
         return portfolio_df
     
+    
     def annual_portfolio_return(self):
         '''
         The function annual_portfolio_return calculates the annual return of 

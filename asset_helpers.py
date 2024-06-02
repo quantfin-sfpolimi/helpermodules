@@ -12,7 +12,6 @@ load_dotenv()
 API_KEY = os.getenv('API_KEY')
 td = TDClient(apikey=API_KEY)
 
-
 def get_index_prices(name, ticker):
     '''
     Given an index name and the ticker of an ETF that tracks it, the function
@@ -23,14 +22,49 @@ def get_index_prices(name, ticker):
     Returns:
     - return_data: pandas Dataframe
     '''
-    with open('helpermodules\indices\\' + name + '.csv', 'r') as file:
-        return_data = pd.read_csv(file, sep=",", names=["Date", ticker], skiprows=1)
+
+    url_list = ["countries/", "curvo/", "countries_small_cap/", "indexes_gross/", "regions_small_cap/"]
+    url_base = "https://raw.githubusercontent.com/NandayDev/MSCI-Historical-Data/main/"
+
+    # trying different paths to the find index data
+    response = None
+    for url_end in url_list:
+        url = createURL(url_base + url_end, name)
+        try:
+            response = urlopen(url)
+        except:
+            continue
+        break
+
+    # if no index found return None
+    if response == None:
+        return None
+
+    # converting the response data to a pandas Dataframe
+    return_data = pd.read_csv(response, sep=",", names=["Date", ticker], skiprows=1)
 
     # yahoo finance date format is "2024-04-01", whereas the index data we have has a "2024-04" format
     return_data["Date"] += "-01"
 
     return return_data
 
+def createURL(url, name):
+    ''' 
+    Given a url and name of an index it creates the correspondant url
+    Parameters: url, name (Strings)
+    Returns: url (String)
+    '''
+
+    for word in name.split():
+        if '®' in word:
+            word=word[0:-1]
+
+        # & letter cannot be part of a link, %26 to substitute
+        if word == "S&P":
+            word = "S%26P"
+
+        url += word + "%20"
+    return url[:-3] + ".csv"
 
 class Asset:
     '''
