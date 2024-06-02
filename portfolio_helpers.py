@@ -12,29 +12,6 @@ load_dotenv()
 API_KEY = os.getenv('API_KEY')
 td = TDClient(apikey=API_KEY)
 
-def MDD(portfolio_prices):
-    '''
-        This function, named MDD (Maximum Drawdown), calculates the maximum 
-        drawdown of a portfolio based on the portfolio prices provided as input.
-        
-        Parameters:
-            - portfolio_prices: Dictionary
-                A dictionary containing the portfolio value with corresponding dates as indices.
-        
-        Return:
-            - float
-                Maximum Drawdown (%)
-    '''
-    value=list(portfolio_prices.values())
-    mdd=0
-    ma=-1
-    for x in value:
-        ma=max(ma, x)
-        if mdd < ma-x:
-            mdd=ma-x
-            mdd_ma=ma
-    return (mdd/mdd_ma)*100
-
 def get_first_date_year(all_date):
     '''
     This function, named get_first_date_year, takes as input a list of 
@@ -244,6 +221,37 @@ class Portfolio:
             capital_df.loc[str(dates[i])[:7], 'Yield'] = yield_
 
         return capital_df
+
+    def MDD(self, start_date, end_date):
+        '''
+        This function, named MDD (Maximum Drawdown), calculates the maximum 
+        drawdown of a portfolio based on the portfolio prices provided as input.
+            
+        Parameters:
+            - start_date, end_date (strings)
+            
+        Return:
+            - float
+                Maximum Drawdown (%)
+        '''
+        max_price = 0
+        max_drawdown = 0
+
+        portfolio_value = self.portfolio_return_pac(1, 0, 0, 0, start_date, end_date)
+
+        for date in portfolio_value['Capital']:
+            price = float(date)
+            
+            if price > max_price:
+                max_price = price
+                continue
+            
+            drawdawn_from_max = (max_price - price)/max_price
+
+            if drawdawn_from_max > max_drawdown:
+                max_drawdown = drawdawn_from_max
+
+        return -max_drawdown*100
 
     def graph_plot(self):
         '''
